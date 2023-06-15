@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Renata, a postdoc at the Physics Division, National Center for Theoeretical Sciences at the National Taiwan University.
+I am Renata, a postdoc in multidisciplinary quantum applications at the Physics Division, National Center for Theoeretical Sciences at the National Taiwan University.
 
 
 Research interests
