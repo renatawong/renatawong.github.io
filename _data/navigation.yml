@@ -7,6 +7,8 @@ main:
  #   url: /cv/
  - title: "Research"
    url: /research/
+ - title: "Quantum AI Biomed Lab"
+   url: /quantum-ai-biomed-lab/
  - title: "Grants"
    url: /grants/
  - title: "Teaching"
