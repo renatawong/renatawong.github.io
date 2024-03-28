@@ -177,7 +177,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: teaching.html
+    permalink: https://renatawong.github.io/teaching.html
   publications:
     output: true
     permalink: /:collection/:path/
