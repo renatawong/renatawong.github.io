@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Quantum Computing"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2024-spring-teaching-1
