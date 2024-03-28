@@ -3,8 +3,8 @@ main:
  #- title: "Publications"
  #  url: /publications/   
     
- # - title: "CV"
- #   url: /cv/
+ - title: "Experience"
+   url: https://www.linkedin.com/in/renata-wong/
  - title: "Research"
    url: https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en
  - title: "Quantum AI Biomed Lab"
