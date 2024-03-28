@@ -6,7 +6,7 @@ main:
  # - title: "CV"
  #   url: /cv/
  - title: "Research"
-   url: /research/
+   url: https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en
  - title: "Quantum AI Biomed Lab"
    url: http://github.com/quantum-ai-biomed-lab
  - title: "Grants"
