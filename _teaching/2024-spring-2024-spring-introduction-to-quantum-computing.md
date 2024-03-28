@@ -8,13 +8,4 @@ date: 2024-02-19
 location: "Taoyuan, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Introductiory course on the fundamentals of quantum computing and quantum information science with elements of quantum mechanics. The course involves both theory and coding practice. Coding exercises make use of IBM Quantum Qiskit. 
