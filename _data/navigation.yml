@@ -8,8 +8,8 @@ main:
  #  url: https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en
  - title: "Quantum AI Biomedical Research Lab"
    url: https://github.com/Quantum-AI-Biomedical-Research-Lab
- - title: "Grants"
-   url: /grants/
+ #- title: "Grants"
+ #  url: /grants/
  #- title: "Teaching"
  #  url: /teaching/
  - title: "Announcements"
