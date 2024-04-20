@@ -31,6 +31,7 @@ Work experience
 Skills
 ======
 * Quantum computing
+* Quantum chemistry
 * Quantum machine learning
 * Foundations of physics
 * Drug discovery
