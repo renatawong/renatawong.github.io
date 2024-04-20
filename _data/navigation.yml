@@ -3,7 +3,7 @@ main:
  #- title: "Publications"
  #  url: /publications/   
  - title: "About"
-   url: _pages/cv.md
+   url: /_pages/cv.md
  - title: "Research"
    url: https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en
  - title: "Quantum AI Biomedical Research Lab"
