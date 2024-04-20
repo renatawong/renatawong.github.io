@@ -36,3 +36,6 @@ Skills
 * Foundations of physics
 * Drug discovery
 
+Publications
+======
+* See my [Google Scholar profile](https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en).
