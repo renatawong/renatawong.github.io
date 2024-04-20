@@ -10,7 +10,7 @@ main:
    url: https://github.com/Quantum-AI-Biomedical-Research-Lab
  - title: "Grants"
    url: /grants/
- - title: "Teaching"
-   url: /teaching/
+ #- title: "Teaching"
+ #  url: /teaching/
  - title: "Announcements"
    url: /announcements/
