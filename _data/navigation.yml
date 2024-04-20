@@ -2,7 +2,7 @@
 main:
  #- title: "Publications"
  #  url: /publications/   
- - title: "About"
+ - title: "CV"
    url: /cv/
  - title: "Research"
    url: https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en
