@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.A. in Sinology, Leipzig University, Germany
+* B.Sc. in Computer Science, Leipzig University, Germany
+* M.Sc. in Computer Science, Leipzig University, Germany
+* Ph.D in Computer Science and Technology (Quantum Computing), Nanjing University, China
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-present: Research Assistant Professor for Quantum Computing
+  * Chang Gung University
+  * Lab: Quantum AI Biomedical Research Lab
+    
+* 2021-2023: Postdoctoral Researcher
+  * Physics Division, National Center for Theoretical Sciences, National Taiwan University
+  * Thematic group: Quantum computing and interdisciplinary applications (TG1.1)
+  * Reaearch advisor: Professor Hsi-Sheng Goan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantum computing
+* Quantum machine learning
+* Foundations of physics
+* Drug discovery
 
 Publications
 ======
