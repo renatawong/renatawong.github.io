@@ -41,8 +41,19 @@ Volunteering
 
 Projects
 ======
-* [Protein Structure Prediction with Grover's Algorithm on AWS](https://aws.amazon.com/solutions/implementations/quantum-computing-exploration-for-drug-discovery/) My Qiskit code accompanying the paper 'Quantum speedup for protein structure prediction' is now part of AWS Solutions Library 'Quantum Computing Exploration for Drug Discovery on AWS'. 
-
+* [Protein Structure Prediction with Grover's Algorithm - AWS](https://aws.amazon.com/solutions/implementations/quantum-computing-exploration-for-drug-discovery/). My Qiskit code accompanying the paper 'Quantum speedup for protein structure prediction' is now part of AWS Solutions Library 'Quantum Computing Exploration for Drug Discovery on AWS'. 
+* [Enhanced quantum autoencoders for anomaly detection - QHACK 2022](https://github.com/VoicuTomut/Enhanced-Autoencoders-for-anomaly-detection). Our team Samras accomplished the following during QHACk 2022: 
+  - Our team came in first in the Coding Challenge of QHack2022 out of more than 300 teams that participated in the Coding Challenge.
+  - We won the Best Experiment using Amazon Braket Challenge of the Open Hackathon
+  - We won the Hybrid Algorithms Challenge of the Open Hackathon
+  - We took the 3rd place in the Quantum Finance Challenge of the Open Hackathon
+  
+  QHack is a hackathon centred around quantum computing and quantum machine learning organized by Xanadu. 
+  
+  Samras members: Michał Bączyk, Stephen DiAdamo, Ankit Khandelwal, Sean Mcilvane, Eraraya Ricardo Muten, Andrei Voicu Tomut and Renata Wong
+  
+  Link to the winners announcement: https://medium.com/xanaduai/qhack-2022-cb5ad92573e2
+    
 --- 
 
 Research topics
