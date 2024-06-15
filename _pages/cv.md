@@ -31,6 +31,12 @@ Work experience
 
 ---
 
+Volunteering
+======
+* [Qiskit Advocate at IBM Quantum](https://www.ibm.com/quantum/community#advocates). My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools.
+
+--- 
+
 Research topics
 ======
 * Quantum computing
