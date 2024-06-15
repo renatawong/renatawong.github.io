@@ -1,9 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: "News"
-excerpt: "News"
+permalink: /news/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /news
 ---
 
