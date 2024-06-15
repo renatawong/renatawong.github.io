@@ -35,12 +35,18 @@ Work experience
 
 Volunteering
 ======
-* [Qiskit Advocate at IBM Quantum](https://www.ibm.com/quantum/community#advocates). My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools.
+* [Qiskit Advocate at IBM Quantum](https://www.ibm.com/quantum/community#advocates). Community member for promotion of IBM Quantum's Qiskit IDE for quantum computing. My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools.
+
+--- 
+
+Projects
+======
+* [Protein Structure Prediction with Grover's Algorithm on AWS](https://aws.amazon.com/solutions/implementations/quantum-computing-exploration-for-drug-discovery/) My Qiskit code accompanying the paper 'Quantum speedup for protein structure prediction' is now part of AWS Solutions Library 'Quantum Computing Exploration for Drug Discovery on AWS'. 
 
 --- 
 
 Research topics
-======
+======is now part o
 * Quantum computing
 * Quantum chemistry
 * Quantum machine learning
