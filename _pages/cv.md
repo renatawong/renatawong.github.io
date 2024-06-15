@@ -16,6 +16,8 @@ Education
 * M.Sc. in Computer Science, Leipzig University, Germany
 * Ph.D in Computer Science and Technology (Quantum Computing), Nanjing University, China
 
+---
+
 Work experience
 ======
 * 2023/08-present: Research Assistant Professor for Quantum Computing and AI
@@ -27,7 +29,8 @@ Work experience
   * Thematic group: Quantum computing and interdisciplinary applications (TG1.1)
   * Research advisor: Prof. Hsi-Sheng Goan (Department of Physics, National Taiwan University)
 
-  
+---
+
 Research topics
 ======
 * Quantum computing
@@ -36,6 +39,8 @@ Research topics
 * Foundations of physics
 * Drug discovery
 * Bioinformatics
+
+--- 
 
 Publications
 ======
