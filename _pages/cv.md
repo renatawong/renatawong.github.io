@@ -22,7 +22,7 @@ Work experience
 ======
 * 2023/08-present: Research Assistant Professor for Quantum Computing and AI
   * Department of Artificial Intelligence, Chang Gung University, Taiwan
-  * Lab: Quantum AI Biomedical Research Lab (under construction)
+  * **Lab: Quantum AI Biomedical Research Lab (under construction)**
     
 * 2021-2023: Postdoctoral Researcher
   * Physics Division, National Center for Theoretical Sciences, National Taiwan University, Taiwan
