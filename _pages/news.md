@@ -11,4 +11,4 @@ redirect_from:
 
 
 
-The Quantum AI Biomedical Research Lab is in formation stage. Stay tuned. 
+The Quantum AI Biomedical Research Lab is in the forming stage. Stay tuned. 
