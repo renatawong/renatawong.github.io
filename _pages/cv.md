@@ -46,7 +46,7 @@ Projects
 --- 
 
 Research topics
-======is now part o
+======
 * Quantum computing
 * Quantum chemistry
 * Quantum machine learning
