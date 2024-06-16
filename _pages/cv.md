@@ -70,3 +70,10 @@ Research topics
 Publications
 ======
 * See my [Google Scholar profile](https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en).
+
+---
+Working languages
+======
+* Polish (native), English, German, Chinese, Russian
+* Currently learning: Spanish, French
+
