@@ -41,7 +41,9 @@ Volunteering
 
 Projects
 ======
-* [Protein Structure Prediction with Grover's Algorithm - AWS](https://aws.amazon.com/solutions/implementations/quantum-computing-exploration-for-drug-discovery/). My Qiskit code accompanying the paper 'Quantum speedup for protein structure prediction' is now part of AWS Solutions Library 'Quantum Computing Exploration for Drug Discovery on AWS'. 
+* [Protein Structure Prediction with Grover's Algorithm - AWS](https://aws.amazon.com/solutions/implementations/quantum-computing-exploration-for-drug-discovery/). My Qiskit code accompanying the paper 'Quantum speedup for protein structure prediction' is now part of AWS Solutions Library 'Quantum Computing Exploration for Drug Discovery on AWS'. See AWS GitHub documentation [here
+](https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws)
+
 * [Enhanced quantum autoencoders for anomaly detection - QHACK 2022](https://github.com/VoicuTomut/Enhanced-Autoencoders-for-anomaly-detection). Our team Samras accomplished the following during QHACk 2022: 
   - Our team came in first in the Coding Challenge of QHack2022 out of more than 300 teams that participated in the Coding Challenge.
   - We won the Best Experiment using Amazon Braket Challenge of the Open Hackathon
