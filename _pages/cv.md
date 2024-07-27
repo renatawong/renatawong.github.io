@@ -77,6 +77,8 @@ Publications
 
 Working languages
 ======
-* Polish (native), English, German, Chinese, Russian
-* Currently learning: Spanish, French
+* Native: Polish
+* Advanced: English, German, Chinese
+* Intermediate: Russian
+* Rudimentary: Spanish, French, Japanese
 
