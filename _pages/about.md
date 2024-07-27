@@ -18,11 +18,9 @@ quantum information science, quantum computing, foundations of physics, bioinfor
 
 ---
 
-Contact
+**Contact details**
 ------
-**Renata Wong Ph.D.** 
-
-**Assistant Professor for Quantum Computing and Artificial Intelligence**
+**Renata Wong Ph.D. - Assistant Professor for Quantum Computing and Artificial Intelligence**
 
 **Institution:** Department of Artificial Intelligence, Chang Gung University
 
