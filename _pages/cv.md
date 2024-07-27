@@ -22,11 +22,11 @@ Education
 
 Work experience
 ======
-* 2023/08-present: Research Assistant Professor for Quantum Computing and AI
+* **2023/08-present: Research Assistant Professor for Quantum Computing and AI**
   * Department of Artificial Intelligence, Chang Gung University, Taiwan
   * **Lab: Quantum AI Biomedical Research Lab (under construction)**
     
-* 2021-2023: Postdoctoral Researcher
+* **2021-2023: Postdoctoral Researcher in Multidisciplinary Quantum Applications**
   * Physics Division, National Center for Theoretical Sciences, National Taiwan University, Taiwan
   * Thematic group: Quantum computing and interdisciplinary applications (TG1.1)
   * Research advisor: Prof. Hsi-Sheng Goan (Department of Physics, National Taiwan University)
