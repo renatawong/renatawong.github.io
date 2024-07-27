@@ -18,7 +18,7 @@ Education
 * B.Sc. in Computer Science, Leipzig University, Germany
 * M.A. in Sinology, Warsaw University, Poland, and Leipzig University, Germany
 
----
+======
 
 Work experience
 ======
