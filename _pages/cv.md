@@ -35,7 +35,12 @@ Work experience
 
 Volunteering
 ======
-* [Qiskit Advocate at IBM Quantum](https://www.ibm.com/quantum/community#advocates). Community member for promotion of IBM Quantum's Qiskit IDE for quantum computing. My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools.
+<table>
+<tr>
+  <td>[2021 - present: Qiskit Advocate at IBM Quantum](https://www.ibm.com/quantum/community#advocates). Community member for promotion of IBM Quantum's Qiskit IDE for quantum computing. My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools.</td>
+  <td><img src="../images/ibm-certified-associate-developer-Renata-Wong.png" alt="Renata Wong IBM Certified Qiskit Developer"></td>
+</tr>
+</table>
 
 --- 
 
