@@ -35,12 +35,7 @@ Work experience
 
 Volunteering
 ======
-<table>
-<tr>
-  <td>[2021 - present: Qiskit Advocate at IBM Quantum](https://www.ibm.com/quantum/community#advocates). Community member for promotion of IBM Quantum's Qiskit IDE for quantum computing. My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools.</td>
-  <td><img src="../images/ibm-certified-associate-developer-Renata-Wong.png" alt="Renata Wong IBM Certified Qiskit Developer"></td>
-</tr>
-</table>
+[2021 - present: Qiskit Advocate at IBM Quantum](https://www.ibm.com/quantum/community#advocates). Community member for promotion of IBM Quantum's Qiskit IDE for quantum computing. My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools.
 
 --- 
 
@@ -59,7 +54,7 @@ Projects
   
   Samras members: Michał Bączyk, Stephen DiAdamo, Ankit Khandelwal, Sean Mcilvane, Eraraya Ricardo Muten, Andrei Voicu Tomut and Renata Wong
   
-  Link to the winners announcement: https://medium.com/xanaduai/qhack-2022-cb5ad92573e2
+  Link to the [Xanadu announcement of winners](https://medium.com/xanaduai/qhack-2022-cb5ad92573e2).
     
 --- 
 
