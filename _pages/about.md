@@ -14,7 +14,7 @@ I am a research assistant professor for quantum computing at the Department of A
 ---
 **Research interests**
 ------
-Quantum information science, Quantum computing, Foundations of physics, Bioinformatics, Classical and quantum machine learning, Linguistics
+quantum information science, quantum computing, foundations of physics, bioinformatics, classical and quantum machine learning, linguistics
 
 ---
 
