@@ -71,7 +71,7 @@ Research topics
 
 Publications
 ======
-* See my [Google Scholar profile](https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en).
+* See my [Google Scholar profile](https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en) or my [CGU profile](https://pure.lib.cgu.edu.tw/en/persons/renata-wong).
 
 ---
 
