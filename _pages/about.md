@@ -30,4 +30,6 @@ quantum information science, quantum computing, foundations of physics, bioinfor
 
 **Phone:** (+886)-32118800 ext. 2541
 
+**Email:** see the menu on the left
+
 ---
