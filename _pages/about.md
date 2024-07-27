@@ -26,9 +26,9 @@ Research interests
 
 Contact
 ------
-Renata Wong Ph.D.  
+**Renata Wong Ph.D.** 
 
-Assistant Professor | Quantum Computing and Artificial Intelligence
+**Assistant Professor for Quantum Computing and Artificial Intelligence**
 
 **Institution:** Department of Artificial Intelligence, Chang Gung University
 
