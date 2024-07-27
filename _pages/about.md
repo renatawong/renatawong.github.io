@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**A very short bio**
 -----
 I am a research assistant professor for quantum computing at the Department of Artificial Intelligence, Chang Gung University. Before that, I was a postdoc in multidisciplinary quantum applications at the Physics Division, National Center for Theoeretical Sciences at the National Taiwan University.
 
 ---
-Research interests
+**Research interests**
 ------
 Quantum information science, Quantum computing, Foundations of physics, Bioinformatics, Classical and quantum machine learning, Linguistics
 
