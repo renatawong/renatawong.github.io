@@ -13,10 +13,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Technology (Quantum Computing), Nanjing University, China
-* M.Sc. in Computer Science, Leipzig University, Germany
-* B.Sc. in Computer Science, Leipzig University, Germany
-* M.A. in Sinology, Warsaw University, Poland, and Leipzig University, Germany
+* **Ph.D in Quantum Computing**, Nanjing University, China
+* **M.Sc. in Computer Science**, Leipzig University, Germany
+* **B.Sc. in Computer Science**, Leipzig University, Germany
+* **M.A. in Sinology**, Warsaw University, Poland, and Leipzig University, Germany
 
 ---
 
