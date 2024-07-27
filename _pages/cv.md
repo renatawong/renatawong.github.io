@@ -13,10 +13,10 @@ redirect_from:
 
 Education
 ======
-* M.A. in Sinology, Leipzig University, Germany
-* B.Sc. in Computer Science, Leipzig University, Germany
-* M.Sc. in Computer Science, Leipzig University, Germany
 * Ph.D in Computer Science and Technology (Quantum Computing), Nanjing University, China
+* M.Sc. in Computer Science, Leipzig University, Germany
+* B.Sc. in Computer Science, Leipzig University, Germany
+* M.A. in Sinology, Warsaw University, Poland, and Leipzig University, Germany
 
 ---
 
@@ -74,6 +74,7 @@ Publications
 * See my [Google Scholar profile](https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en).
 
 ---
+
 Working languages
 ======
 * Polish (native), English, German, Chinese, Russian
