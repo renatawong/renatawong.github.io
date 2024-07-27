@@ -15,10 +15,25 @@ I am a research assistant professor for quantum computing at the Department of A
 ---
 Research interests
 ------
-Quantum information science, quantum computing, foundations of physics, bioinformatics, machine learning, and linguistics.
+* Quantum information science
+* Quantum computing
+* Foundations of physics
+* Bioinformatics
+* (Quantum) machine learning
+* Linguistics
 
 ---
 
-Where you can find me
+Contact
 ------
-Polish (native), English, German, Chinese, Russian. Currently learning: Spanish and French.  
+Renata Wong Ph.D.  
+
+Assistant Professor | Quantum Computing and Artificial Intelligence
+
+**Institution:** Department of Artificial Intelligence, Chang Gung University
+
+**Address:** 259 Wenhua First Road, Guishan District, 33302 Taoyuan, Taiwan
+
+**Office:** B1405, Management Building 14F 
+
+**Phone:** (+886)-32118800 ext. 2541
