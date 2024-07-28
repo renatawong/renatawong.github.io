@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Renata Wong, PhD | About"
+title                    : "Renata Wong's Lab"
 title_separator          : "-"
 name                     : &name "Renata Wong"
 description              : &description "personal description"
