@@ -36,7 +36,7 @@ Work experience
 Professional certification
 ======
 ![IBM certified associate developer badge](http://renatawong.github.io/images/ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x.png)
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="407649e5-7f49-4a2b-b38f-58c5b1e6b75c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 --- 
 
 Professional activities
