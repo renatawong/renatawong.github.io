@@ -35,7 +35,6 @@ Work experience
 
 Professional certification
 ======
-IBM certified associate developer (since 2021) 
 ![IBM certified associate developer badge](http://renatawong.github.io/images/ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x.png)
 
 --- 
