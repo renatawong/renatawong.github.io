@@ -35,19 +35,19 @@ Work experience
 
 Professional certifications
 ======
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee6f5488-472b-4ddd-871d-5af53c5a8c41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="407649e5-7f49-4a2b-b38f-58c5b1e6b75c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 --- 
 
 Professional activities
 ======
-![IBM certified associate developer badge](http://renatawong.github.io/images/ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x.png)
 
 
 
 Volunteering
 ======
 [Qiskit Advocate at IBM Quantum (since 2021)](https://www.ibm.com/quantum/community#advocates). Community member for promotion of IBM Quantum's Qiskit IDE for quantum computing. My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools. 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee6f5488-472b-4ddd-871d-5af53c5a8c41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 --- 
 
