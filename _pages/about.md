@@ -11,6 +11,8 @@ redirect_from:
 -----
 I am a research assistant professor for quantum computing at the Department of Artificial Intelligence, Chang Gung University. Before that, I was a postdoc in multidisciplinary quantum applications at the Physics Division, National Center for Theoeretical Sciences at the National Taiwan University.
 
+This site is the landing site for my future lab at Chang Gung University - the Quantum AI Biomedical Research Lab, which is currently in its formation stage. 
+
 ---
 **Research interests**
 ------
@@ -30,6 +32,6 @@ quantum information science, quantum computing, foundations of physics, bioinfor
 
 **Phone:** (+886)-32118800 ext. 2541
 
-**Email:** see the menu on the left
+**Email:** see the menu on the left, or click on 'Follow' in smaller screens.
 
 ---
