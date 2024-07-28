@@ -62,7 +62,7 @@ Projects
 ======
 * [Protein Structure Prediction with Grover's Algorithm - AWS](https://awslabs.github.io/quantum-computing-exploration-for-drug-discovery-on-aws/en/). My Python-Qiskit code implementing a quantum algorithm for protein structure prediction is now part of AWS Solutions Library 'Quantum Computing Exploration for Drug Discovery on AWS'. See [AWS GitHub documentation](https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws).
 
-  Accompanying the paper: R Wong and WL Chang, 'Quantum speedup for protein structure prediction', IEEE Transactions on Nanobioscience 2021, doi: 10.1109/TNB.2021.3065051
+  Accompanying paper: R Wong and WL Chang, 'Quantum speedup for protein structure prediction', IEEE Transactions on Nanobioscience 2021, doi: 10.1109/TNB.2021.3065051
 
 * [Enhanced quantum autoencoders for anomaly detection - QHACK 2022](https://github.com/VoicuTomut/Enhanced-Autoencoders-for-anomaly-detection). Our team Samras accomplished the following during QHACK 2022: 
   - Our team came in first in the Coding Challenge of QHack2022 out of more than 300 teams that participated in the Coding Challenge.
