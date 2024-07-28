@@ -41,6 +41,7 @@ Professional certifications
 
 Professional activities
 ======
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6fc9246f-85a3-4128-abaf-d5dceac68160" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
