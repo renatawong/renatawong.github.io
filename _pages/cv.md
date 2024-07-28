@@ -92,7 +92,7 @@ Research topics
 
 Publications
 ======
-* See my Google Scholar profile or my Website (links in the menu on the left).
+* See my Google Scholar profile (link in the menu on the left, or click on 'Follow' in smaller screens).
 
 ---
 
