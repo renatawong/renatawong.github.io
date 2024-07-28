@@ -53,7 +53,7 @@ Professional activities
 
 Volunteering
 ======
-[Qiskit Advocate at IBM Quantum (since 2021)](https://www.ibm.com/quantum/community#advocates). Community member for promotion of IBM Quantum's Qiskit IDE for quantum computing. My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools. 
+* [Qiskit Advocate at IBM Quantum (since 2021)](https://www.ibm.com/quantum/community#advocates). Community member for promotion of IBM Quantum's Qiskit IDE for quantum computing. My activities involve mentoring at IBM Quantum Challenges and Global Qiskit Summer Schools. 
 
 
 --- 
