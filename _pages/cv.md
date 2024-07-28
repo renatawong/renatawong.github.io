@@ -60,7 +60,7 @@ Volunteering
 
 Projects
 ======
-* Protein Structure Prediction with Grover's Algorithm - AWS. My Python-Qiskit code implementing a quantum algorithm for protein structure prediction is now part of AWS Solutions Library 'Quantum Computing Exploration for Drug Discovery on AWS'. See [AWS GitHub documentation](https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws).
+* [Protein Structure Prediction with Grover's Algorithm - AWS](https://awslabs.github.io/quantum-computing-exploration-for-drug-discovery-on-aws/en/). My Python-Qiskit code implementing a quantum algorithm for protein structure prediction is now part of AWS Solutions Library 'Quantum Computing Exploration for Drug Discovery on AWS'. See [AWS GitHub documentation](https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws).
 
   Accompanying the paper: R Wong and WL Chang, 'Quantum speedup for protein structure prediction', IEEE Transactions on Nanobioscience 2021, doi: 10.1109/TNB.2021.3065051
 
