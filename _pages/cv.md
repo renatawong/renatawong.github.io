@@ -42,7 +42,9 @@ Professional certifications
 Professional activities
 ======
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6fc9246f-85a3-4128-abaf-d5dceac68160" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="840dc159-ecdc-44e6-97a6-3457801fc997" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="da964b9b-2888-48f6-bb15-f4cc4822ffcf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eecdc7be-95e1-4156-8547-40ee966d1d46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 Volunteering
