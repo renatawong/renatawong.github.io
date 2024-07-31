@@ -101,5 +101,5 @@ Working languages
 * **Native:** Polish
 * **Advanced:** English, German, Chinese
 * **Intermediate:** Russian
-* **Rudimentary (currently learning):** Spanish, French, Japanese
+* **Rudimentary (currently learning):** Spanish, French, Japanese, Kiswahili
 
