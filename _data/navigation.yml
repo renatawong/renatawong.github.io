@@ -1,4 +1,4 @@
-# main links links
+_ar# main links links
 main:
  #- title: "Publications"
  #  url: /publications/   
@@ -14,4 +14,4 @@ main:
  #  url: /teaching/
  - title: "News"
  #  url: /news/
- url: /_posts/
+ url: /year-archive/
