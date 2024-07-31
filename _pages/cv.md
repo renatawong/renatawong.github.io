@@ -15,8 +15,9 @@ Education
 ======
 * **Ph.D in Quantum Computing**, Nanjing University, China
 * **M.Sc. in Computer Science**, Leipzig University, Germany
-* **B.Sc. in Computer Science**, Leipzig University, Germany
 * **M.A. in Sinology**, Warsaw University, Poland, and Leipzig University, Germany
+* **B.Sc. in Computer Science**, Leipzig University, Germany
+
 
 ---
 
