@@ -11,7 +11,7 @@ This is the landing page for my future lab at Chang Gung University - the Quantu
 
 ---
 
-How to find us
+**How to find us**
 
 ---
 
