@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "QBR LAB @ CGU"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Renata Wong"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://renatawong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  name             : "Lab Head: Renata Wong"
+  avatar           : "renata-wong.png"
+  bio              : "Assistant Professor in Quantum Computing and AI, Polyglot"
+  location         : "Taipei, Taiwan"
+  employer         : "Chang Gung University"
+  googlescholar    : "https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en"
+  email            : "renata-wong@cgu.edu.tw"
+  uri              : "https://pure.lib.cgu.edu.tw/en/persons/renata-wong"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "renatawong"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "renata-wong"
+  orcid            : "https://orcid.org/0000-0001-5468-0716"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
