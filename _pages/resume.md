@@ -38,6 +38,8 @@ I am a research assistant professor for quantum computing at the Department of A
 
 # Professional certifications
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee6f5488-472b-4ddd-871d-5af53c5a8c41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="407649e5-7f49-4a2b-b38f-58c5b1e6b75c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="917c852c-a20d-466a-97e4-abb70351e260" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
