@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 This is the landing page for my future lab at Chang Gung University - the Quantum AI Biomedical Research Lab, which is currently in its formation stage. 
 
 ---
