@@ -8,45 +8,65 @@ redirect_from:
 ---
 
 <style>
-  .outer {}
-  
-  .container {
-    display:flex;
-  }
-  
-  .image {
-    width: 25%;
-    max-width:100px;
-    float: left;
-  }
-  
-  .text {
-    padding-left: 20px;
-    float: left;
-  }
+---
+layout: archive
+permalink: /people/
+title: "People"
+author_profile: true
+redirect_from: 
+  - /people
+---
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Container to hold all rows */
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+/* Row structure */
+.row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Space between rows */
+}
+
+/* Image styling to ensure uniform proportions */
+.row img {
+    width: 300px;  /* Set the width for all images */
+    height: auto;  /* Maintains aspect ratio automatically */
+    margin-right: 20px; /* Space between image and text */
+    border-radius: 8px;
+}
+
+/* Text styling */
+.row p {
+    font-size: 16px;
+    line-height: 1.5;
+    flex: 1; /* Makes the text take up the remaining space next to the image */
+}
   </style>
 
-<hr>
 
-<div class="outer">
-    <div class="container">
-      <div class="image">
-        <img src="https://renatawong.github.io/images/renata-wong.jpg">
-      </div>
-      <div class="text">
-        <b>Renata Wong</b>, QBR Lab Head, Assitant Professor in Quantum Computing and AI, Department of Artificial Intelligence, Chang Gung University
-      </div>
+  <div class="container">
+        <div class="row">
+            <img src="https://renatawong.github.io/images/renata-wong.jpg" alt="Renata">
+            <p>This is the text next to the first image. It stays aligned with the image.</p>
+        </div>
+
+        <div class="row">
+            <img src="https://renatawong.github.io/images/yu-hao.jpg" alt="Yu-Hao">
+            <p>This is the text next to the second image. The image has the same proportions as the first one.</p>
+        </div>
+
+        <div class="row">
+            <img src="https://renatawong.github.io/images/yu-hao.jpg" alt="Yu-Hao">
+            <p>This is the text next to the third image. The images are aligned with the same size.</p>
+        </div>
     </div>
-
-<hr>
-
-<div class="container">
-      <div class="image">
-        <img src="https://renatawong.github.io/images/yu-hao.jpg">
-      </div>
-      <div class="text">
-        <b>Yu-Hao Chen</b>, PhD Student, Department of Physics, National Taiwan University
-      </div>
-    </div>
-
-</div>
