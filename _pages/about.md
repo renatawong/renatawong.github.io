@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-This is the landing page for my future lab at Chang Gung University - the Quantum AI Biomedical Research Lab, which is currently in its formation stage. 
+Welcome to the Quantum AI Biomedical Research Lab. We are currently in the formation stage. Please stay tuned. 
 
 ---
 
