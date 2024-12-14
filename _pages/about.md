@@ -13,6 +13,8 @@ Welcome to the Quantum AI Biomedical Research Lab. We are currently in the forma
 
 ---
 
+**UN proclaims 2025 as the International Year of Quantum Science and Technology**
+
 ![2025 - UN International Year of Quantum Science and Technology](images/UN-international-year-of-quantum.webp)
 
 ---
