@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Renata Wong Résumé"
-permalink: /renata-wong-resume.md
+permalink: /renata-wong-resume/
 author_profile: true
 
 ---
