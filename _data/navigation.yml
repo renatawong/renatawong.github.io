@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Résumé"
-    url: /resume/
+  #- title: "Résumé"
+  #  url: /resume/
 
   - title: "People"
     url: /people/    
