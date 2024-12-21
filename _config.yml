@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "QBR LAB @ CGU"
+title                    : "Quantum AI Biomedical Research Lab @ CGU"
 title_separator          : "-"
 name                     : &name "Renata Wong"
 description              : &description "personal description"
