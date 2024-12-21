@@ -82,24 +82,24 @@ author:
   name             : "Quantum AI Biomedical Research Lab"
   avatar           : "QBRLAB-LOGO-SQUARE.png"
   bio              : "Lab Head: Renata Wong, Assistant Professor in Quantum Computing and AI, Polyglot"
-  location         : "Taipei, Taiwan"
+  location         : "Taoyuan, Taiwan"
   employer         : "Chang Gung University"
-  googlescholar    : "https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en"
   email            : "renata-wong@cgu.edu.tw"
-  uri              : "https://pure.lib.cgu.edu.tw/en/persons/renata-wong"
+  uri              : #"https://pure.lib.cgu.edu.tw/en/persons/renata-wong"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "renatawong"
+  github           : #"renatawong"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "renata-wong"
-  orcid            : "https://orcid.org/0000-0001-5468-0716"
+  linkedin         : #"renata-wong"
+  orcid            : #"https://orcid.org/0000-0001-5468-0716"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -111,7 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Wong+Renata"
+  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Wong+Renata"
 
 # Reading Files
 include:
