@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Renata Wong Résumé"
 permalink: /renata-wong-resume/
 author_profile: true
