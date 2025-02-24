@@ -1,7 +1,7 @@
 ---
 title: "SVM/SVR kernels as quantum propagators"
 collection: publications
-category: journals
+category: journal-articles
 permalink: /publication/2025-02-16-svm-kernels-as-quantum-propagators
 excerpt: 'In this work, we establish the equivalence between Support Vector Machine (SVM) kernels and quantum Greens functions.'
 date: 2025-02-16
