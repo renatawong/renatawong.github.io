@@ -23,11 +23,14 @@ I am a research assistant professor for quantum computing at the Department of A
 
 ---
 
-# Work experience
+# Related work experience
 
+* **2025/01-present: Assistant Research Fellow (joint appointment)**
+  * Department of Neurology, Chang Gung Memorial Hospital, Keelung, Taiwan
+    
 * **2023/08-present: Research Assistant Professor for Quantum Computing and AI**
   * Department of Artificial Intelligence, Chang Gung University, Taiwan
-  * Lab: Quantum AI Biomedical Research Lab (under construction)
+  * Lab: Quantum AI Biomedical Research Lab
 
 * **2021-2023: Postdoctoral Researcher in Multidisciplinary Quantum Applications**
   * Physics Division, National Center for Theoretical Sciences, National Taiwan University, Taiwan
