@@ -18,8 +18,8 @@ main:
   - title: "Funding"
     url: /funding/
 
-  - title: "GitHub"
-    url: https://github.com/Quantum-AI-Biomedical-Research-Lab    
+  #- title: "GitHub"
+  #  url: https://github.com/Quantum-AI-Biomedical-Research-Lab    
     
   - title: "Updates"
     url: /year-archive/
