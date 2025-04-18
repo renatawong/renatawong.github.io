@@ -9,7 +9,13 @@ redirect_from:
 
 ---
 
-Welcome to the Quantum AI Biomedical Research Lab. We are currently in the formation stage. Please stay tuned. 
+The Quantum AI Biomedical Research Lab focuses on research at the intersection of quantum computing, artificial intelligence, and biomedical science. Our goal is to develop new methods and tools that use quantum and AI technologies to address complex problems in healthcare and life sciences.
+
+We work on a range of projects, including quantum machine learning for protein structure prediction, and hybrid classical-quantum algorithms for analyzing medical data. In the near future, we will be expanding to AI-driven tools for diagnostics and drug discovery in collaboration with the Chang Gung Memorial Hospital. Our team is currently small, but versatile. It brings together researchers with backgrounds in quantum information, machine learning, engineering and physics.
+
+A key part of our work is developing algorithms that can run on today’s quantum hardware, especially noisy intermediate-scale quantum (NISQ) devices. We also plan to focus on building efficient AI systems for use with real-world biomedical datasets.
+
+The lab aims to contribute to practical advancements in biomedical science by exploring the real-world potential of quantum and AI technologies in healthcare and medical research. 
 
 ---
 
