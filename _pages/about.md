@@ -19,7 +19,7 @@ The lab aims to contribute to practical advancements in biomedical science by ex
 
 ---
 
-**How to join us**
+### How to join us
 
 If you are a **master's student** working in one of our research areas under the supervision of Prof. Renata Wong, you will automatically be considered a member of the lab.
 
@@ -29,13 +29,13 @@ If you are interested in pursuing a **PhD** in quantum computing, please contact
 
 ---
 
-**UN proclaims 2025 as the International Year of Quantum Science and Technology**
+### UN proclaims 2025 as the International Year of Quantum Science and Technology
 
 ![2025 - UN International Year of Quantum Science and Technology](images/UN-international-year-of-quantum.webp)
 
 ---
 
-**How to find us**
+### How to find us
 
 ---
 
