@@ -25,7 +25,7 @@ If you are a **master's student** pursuing your degree in any of our lab's resea
 
 If you are a **bachelor's student** you are encouraged to form a team of four and consult with us on a possible research topic for your capstone project. 
 
-If you are interestd in pursuing a **PhD degree** in quantum computing, please contact us for oportunities. 
+If you are interestd in pursuing a **PhD degree** in quantum computing, please contact us about oportunities. 
 
 ---
 
