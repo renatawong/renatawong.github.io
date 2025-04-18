@@ -21,7 +21,7 @@ The lab aims to contribute to practical advancements in biomedical science by ex
 
 ## How to join us
 
-If you are a **master's student** working in one of our research areas under the supervision of Prof. Renata Wong, you will become a reasearch assistant at the lab.
+If you are a **master's student** working in one of our research areas under the supervision of Prof. Renata Wong, you will become a research assistant at the lab.
 
 **Bachelor’s students** are encouraged to form a team of four and consult with us about potential research topics for their capstone project. 
 
