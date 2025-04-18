@@ -21,11 +21,11 @@ The lab aims to contribute to practical advancements in biomedical science by ex
 
 **How to join us**
 
-If you are a **master's student** pursuing your degree in any of our lab's research areas under the supervision of Prof. Renata Wong, you will automatically become a lab member. 
+If you are a **master's student** working in one of our research areas under the supervision of Prof. Renata Wong, you will automatically be considered a member of the lab.
 
-If you are a **bachelor's student** you are encouraged to form a team of four and consult with us on a possible research topic for your capstone project. 
+**Bachelor’s students** are encouraged to form a team of four and consult with us about potential research topics for their capstone project.
 
-If you are interestd in pursuing a **PhD degree** in quantum computing, please reach out to us regarding oportunities. 
+If you are interested in pursuing a **PhD** in quantum computing, please contact us to inquire about available opportunities.
 
 ---
 
