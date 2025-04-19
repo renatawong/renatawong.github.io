@@ -9,12 +9,16 @@ redirect_from:
 
 ---
 
+## PhD students
 
-## How to join us
+If you are interested in pursuing a PhD in quantum computing, please contact us to inquire about available opportunities.
 
-If you are a **master's student** working in one of our research areas under the supervision of Prof. Renata Wong, you will become a research assistant at the lab.
+## Master's students
 
-**Bachelor’s students** are encouraged to form a team of four and consult with us about potential research topics for their capstone project. 
+If you are a master's student working in one of our research areas under the supervision of Prof. Renata Wong, you will become a research assistant at the lab.
 
-If you are interested in pursuing a **PhD** in quantum computing, please contact us to inquire about available opportunities.
+## Bachelor's students
+
+Bachelor’s students are encouraged to form a team of four and consult with us about potential research topics for their capstone project. At this stage, you are most likely not familiar with quantum computing . Tehrefore, you are strongly encouraged to take **Introduction to Quantum Computing** course in the fall, and then **Quantum Machine Learning** in the spring. 
+
 
