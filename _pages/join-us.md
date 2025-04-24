@@ -23,4 +23,4 @@ Bachelor’s students are encouraged to form a team of four and consult with us 
 
 ## Contact
 
-Email address: see the menu to the left (on browsers), or click on `Follow` on mobile devices. 
+Email address: see the menu to the left (on browsers), or click on `Follow` (on mobile devices). 
