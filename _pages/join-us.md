@@ -21,6 +21,10 @@ If you are a master's student working in one of our research areas under the sup
 
 Bachelor’s students are encouraged to form a team of four and consult with us about potential research topics for their capstone project. At this stage, you are most likely not familiar with quantum computing . Therefore, you are strongly encouraged to take Introduction to Quantum Computing in the fall. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials. 
 
+## International students
+
+If you are interested in pursuing your master's degree at Chang Gung University under supervision of Prof. Renata Wong, please contact us with your CV and other relevant materials.
+
 ## Contact
 
 Email address: see the menu to the left (on browsers), or click on `Follow` (on mobile devices). 
