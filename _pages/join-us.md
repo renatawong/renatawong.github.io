@@ -15,7 +15,7 @@ If you are interested in pursuing a PhD in quantum computing, please contact us 
 
 ## Master's students
 
-If you are a master's student working in one of our research areas under the supervision of Prof. Renata Wong, you will become a research assistant at the lab.
+If you are a master's student working in one of our research areas under the supervision of Prof. Renata Wong, you will be hired as a research assistant at the lab.
 
 ## Bachelor's students
 
