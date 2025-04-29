@@ -24,7 +24,9 @@ If you are a master's student working in one of our research areas under the sup
 
 ## Bachelor's students
 
-Bachelor’s students are encouraged to form a team of four and consult with us about potential research topics for their capstone project. At this stage, you are most likely not familiar with quantum computing . Therefore, you are strongly encouraged to take Introduction to Quantum Computing in the fall. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials. 
+Bachelor’s students are encouraged to form a team of four and consult with us about potential research topics for their capstone project. We can supervise capstone projects in either  quantum computing or machine learning. 
+
+If you are interested working on a capstone project in quantum computing, at this stage, you are most likely not familiar with it. Therefore, you are strongly encouraged to take Introduction to Quantum Computing in the fall. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials. 
 
 ## International students
 
