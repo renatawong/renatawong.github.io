@@ -30,7 +30,7 @@ If you are interested working on a capstone project in quantum computing, at thi
 
 ## International students
 
-If you are interested in pursuing your master's degree at Chang Gung University under supervision of Prof. Renata Wong, please contact us with your CV and other relevant materials.
+If you are interested in pursuing your master's degree at Chang Gung University under the supervision of Prof. Renata Wong, please contact us with your CV and other relevant materials.
 
 ## Contact
 
