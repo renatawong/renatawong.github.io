@@ -9,9 +9,14 @@ redirect_from:
 
 ---
 
+## Broad research areas of the Lab: 
+
+1. Quantum computing and quantum information
+2. Machine learning
+
 ## PhD students
 
-If you are interested in pursuing a PhD in quantum computing, please contact us to inquire about available opportunities.
+If you are interested in pursuing a PhD in quantum computing or machine learning, please contact us to inquire about available opportunities.
 
 ## Master's students
 
