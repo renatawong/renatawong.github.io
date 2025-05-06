@@ -12,7 +12,7 @@ redirect_from:
 ## Broad research areas of the Lab: 
 
 1. Quantum computing and quantum information (including quantum machine learning)
-2. Artificial intelligence
+2. Artificial intelligence for medical applications
 
 ## PhD students
 
