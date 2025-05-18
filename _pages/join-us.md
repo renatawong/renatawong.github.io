@@ -16,7 +16,7 @@ redirect_from:
 
 ## Benefits of joining our Lab:
 
-Besides the mentorship of your project/thesis, you will gain access to our Lab's exlclusive equipment (check the tab Equipment for what we offer).
+Besides the mentorship of your project/thesis, you will gain access to our Lab's resources, including our equipment (check the tab Equipment for what we offer).
 
 ## PhD students
 
