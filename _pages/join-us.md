@@ -14,6 +14,10 @@ redirect_from:
 1. Quantum computing and quantum information (including quantum machine learning)
 2. Artificial intelligence for medical applications
 
+## Benefits of joining our Lab:
+
+Besides the mentorship of your project/thesis, you will gain access to our Lab's exlclusive equipment (check the tab Equipment for what we offer).
+
 ## PhD students
 
 If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about available opportunities.
@@ -37,3 +41,4 @@ If you are interested in pursuing your master's degree at Chang Gung University 
 Email address: see the menu to the left (on browsers), or click on `Follow` (on mobile devices). 
 
 **Please note**: Due to the volume of messages we receive, we are only able to respond to inquiries that align with our current interests and priorities. Thank you for your understanding.
+
