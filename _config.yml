@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "QBR Lab @ CGU"
+title                    : "QaiBR Lab @ CGU"
 title_separator          : "-"
 name                     : &name "Renata Wong"
 description              : &description "personal description"
