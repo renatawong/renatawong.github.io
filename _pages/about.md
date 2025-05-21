@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantum AI Biomedical Research Lab"
+title: "Quantum AI Biomedical Research Lab - Vision"
 author_profile: true
 redirect_from: 
   - /about/
