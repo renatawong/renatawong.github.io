@@ -37,6 +37,14 @@ If you are interested working on a capstone project in quantum computing, at thi
 
 If you are interested in pursuing your master's degree at Chang Gung University under the supervision of Prof. Renata Wong, please contact us with your CV and other relevant materials.
 
+## Postdocs
+
+We don't offer any postdoc positions at this time. 
+
+## Internships
+
+We don't offer any internship opportunities at this time. 
+
 ## Contact
 
 Email address: see the menu to the left (on browsers), or click on `Follow` (on mobile devices). 
