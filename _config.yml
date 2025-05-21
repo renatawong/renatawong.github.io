@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://renatawong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "renatawong/renatawong.github.io"
-teaser                   :  "QAIBR-LAB-LOGO.png" #"QBRLAB-LOGO-SQUARE.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "QAIBR-LAB-LOGO2.png" #"QBRLAB-LOGO-SQUARE.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Quantum AI Biomedical Research Lab"
-  avatar           : "QBRLAB-LOGO-SQUARE.png"
+  avatar           : "QAIBR-LAB-LOGO2.png" #"QBRLAB-LOGO-SQUARE.png"
   bio              : #"Lab Head: Renata Wong, Assistant Professor in Quantum Computing and AI, Polyglot"
   location         : "Taoyuan, Taiwan"
   employer         : "Chang Gung University"
