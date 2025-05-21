@@ -9,6 +9,8 @@ redirect_from:
 
 ---
 
+Please note that all the paid opportunities listed herein are exclusive to the students enrolled at the Department of Artificial Intelligence, Chang Gung University. 
+
 ## Broad research areas of the Lab: 
 
 1. **Quantum computing and quantum information** (including quantum machine learning)
