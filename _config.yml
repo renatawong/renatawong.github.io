@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Quantum AI Biomedical Research Lab"
   avatar           : "QAIBR-LAB-LOGO2.png" #"QBRLAB-LOGO-SQUARE.png"
-  bio              : #"Lab Head: Renata Wong, Assistant Professor in Quantum Computing and AI, Polyglot"
+  bio              : "Quantum and AI technology for medical applications"#"Lab Head: Renata Wong, Assistant Professor in Quantum Computing and AI, Polyglot"
   location         : "Taoyuan, Taiwan"
   employer         : "Chang Gung University"
   googlescholar    : #"https://scholar.google.com/citations?user=XVFoBw4AAAAJ&hl=en"
