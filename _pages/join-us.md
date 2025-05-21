@@ -11,9 +11,9 @@ redirect_from:
 
 ## Broad research areas of the Lab: 
 
-1. Quantum computing and quantum information (including quantum machine learning)
-2. Physics-informed machine learning (particularly suitable for physics students)
-3. Artificial intelligence for medical applications (medical doctors are also welcome)
+1. **Quantum computing and quantum information** (including quantum machine learning)
+2. **Physics-informed machine learning** (particularly suitable for physics students)
+3. **Artificial intelligence for medical applications** (medical doctors, and medical students are also welcome)
 
 ## Benefits of joining our Lab:
 
