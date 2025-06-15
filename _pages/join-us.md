@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-## Please note that any paid opportunities are exclusive to the students enrolled at the Department of Artificial Intelligence, Chang Gung University, and they are offered at the discretion of the Lab. 
+**Please note that any paid opportunities are exclusive to the students enrolled at the Department of Artificial Intelligence, Chang Gung University, and they are offered at the discretion of the Lab.** 
 
 ## Broad research areas of the Lab: 
 
