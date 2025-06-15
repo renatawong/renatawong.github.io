@@ -27,7 +27,7 @@ If you are interested in pursuing a PhD in one of our research areas, please con
 
 ## Master's students
 
-If you are a master's student working in one of our research areas under the supervision of Prof. Renata Wong, you will be hired as a research assistant at the lab.
+If you are a master's student working in one of our research areas under the supervision of Prof. Renata Wong, you will become a member of the Lab. 
 
 ## Bachelor's students
 
@@ -52,4 +52,6 @@ We don't offer any internship opportunities at this time.
 Email address: see the menu to the left (on browsers), or click on `Follow` (on mobile devices). 
 
 **Please note**: Due to the volume of messages we receive, we are only able to respond to inquiries that align with our current interests and priorities. Thank you for your understanding.
+
+**Please note**: We reserve the right to change the rules listed herein without a prior notice. 
 
