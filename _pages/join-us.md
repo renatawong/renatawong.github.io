@@ -49,7 +49,7 @@ We don't offer any internship opportunities at this time.
 
 ## Contact
 
-Email address: see the menu to the left (on browsers), or click on `Follow` (on mobile devices). 
+**Email address**: see the menu to the left (on browsers), or click on `Follow` (on mobile devices). 
 
 **Please note**: Due to the volume of messages we receive, we are only able to respond to inquiries that align with our current interests and priorities. Thank you for your understanding.
 
