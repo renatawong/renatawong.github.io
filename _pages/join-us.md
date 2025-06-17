@@ -53,5 +53,5 @@ We don't offer any internship opportunities at this time.
 
 **Please note**: Due to the volume of messages we receive, we are only able to respond to inquiries that align with our current interests and priorities. Thank you for your understanding.
 
-**Please note**: We reserve the right to change the rules listed herein without a prior notice. 
+**Please note**: We reserve the right to change the rules listed herein without prior or further notice. 
 
