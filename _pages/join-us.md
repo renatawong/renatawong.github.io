@@ -45,7 +45,7 @@ We don't offer any postdoc positions at this time.
 
 ## Internships
 
-We don't offer any internship opportunities at this time. 
+We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.tw/mentor/22162](https://iipp.tw/mentor/22162)
 
 ## Contact
 
