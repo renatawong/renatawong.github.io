@@ -45,7 +45,7 @@ We don't offer any postdoc positions at this time.
 
 ## Internships
 
-We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.tw/mentor/22162](https://iipp.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council and will not receive further financial support from the Lab. 
+We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.tw/mentor/22162](https://iipp.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council. 
 
 ## Contact
 
