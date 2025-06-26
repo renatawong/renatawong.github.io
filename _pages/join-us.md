@@ -55,3 +55,4 @@ We currently offer 2 internship opportunities through NSTC's International Inter
 
 **Please note**: We reserve the right to change the rules listed herein without prior or further notice. 
 
+**Last updated: June 26, 2025**
