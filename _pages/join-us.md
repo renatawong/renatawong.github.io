@@ -49,10 +49,10 @@ We currently offer 2 internship opportunities through NSTC's International Inter
 
 ## Contact
 
-**Email address**: See the menu to the left (on browsers), or click on `Follow` (on mobile devices). Please disclose any use of LLMs in your correspondence. 
+**Email address**: See the menu to the left (on browsers), or click on `Follow` (on mobile devices). **Please disclose any use of LLMs in your correspondence.** 
 
 **Please note**: Due to the volume of messages we receive, we are only able to respond to inquiries that align with our current interests and priorities. Thank you for your understanding.
 
 **Please note**: We reserve the right to change the rules listed herein without prior or further notice. 
 
-**Last updated: June 26, 2025**
+**Last updated: July 15, 2025**
