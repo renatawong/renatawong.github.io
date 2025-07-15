@@ -14,6 +14,9 @@ main:
     
   - title: "Equipment"
     url: /equipment/
+
+  - title: "Resources"
+    url: /resources/
     
   - title: "Funding"
     url: /funding/
