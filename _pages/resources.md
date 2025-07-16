@@ -13,6 +13,6 @@ redirect_from:
 ---
 
 
-Quantum Chemistry Books: 
+### Quantum Chemistry Books: 
 
 **Essentials of Computational Chemistry: Theories and Models**, Christopher Cramer, ISBN: 978-0470091821
