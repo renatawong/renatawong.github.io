@@ -31,7 +31,7 @@ Books currently in the Lab's possession include:
 ## Quantum Computing and Quantum Information Books
 
 - **Mathematics of Quantum Computing: An Introduction**, Wolfgang Scherer, ISBN: 9783030123604
-- **Machine Learning with Quantum Computers**, Maria Schuld, ISBN: 9783030831004
+- **Machine Learning with Quantum Computers**, Maria Schuld and Francesco Petruccione, ISBN: 9783030831004
 - **Quantum Computer Science: An Introduction**, N. David Mermin, ISBN: 9780521876582
 - **An Introduction to Quantum Computing**, Phillip Kaye, ISBN: 9780198570493
 
