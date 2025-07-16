@@ -12,6 +12,8 @@ redirect_from:
 
 ---
 
+Books currently in the Lab's possession include: 
+
 
 ## Quantum Chemistry Books: 
 
@@ -26,7 +28,7 @@ redirect_from:
 
 # Arriving soon: 
 
-## Quantum Computation and Quantum Information Books
+## Quantum Computing and Quantum Information Books
 
 - **Mathematics of Quantum Computing: An Introduction**, Wolfgang Scherer, ISBN: 9783030123604
 - **Machine Learning with Quantum Computers**, Maria Schuld, ISBN: 9783030831004
