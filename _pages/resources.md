@@ -1,5 +1,5 @@
 ---
-permalink: resources
+permalink: archive
 title: "Resources"
 author_profile: true
 redirect_from: 
