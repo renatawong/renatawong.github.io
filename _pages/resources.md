@@ -22,6 +22,8 @@ redirect_from:
 - **A Chemist's Guide to Density Functional Theory**, Wolfram Koch and Max C. Holthausen, ISBN: 978-3527303724
 - **Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory**, Attila Szabo and Neil S. Ostlund, ISBN: 978-0486691862
 
+---
+
 # Arriving soon: 
 
 ## Quantum Computation and Quantum Information Books
