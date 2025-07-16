@@ -7,6 +7,9 @@ redirect_from:
   - /resources
   - /resources.html
 ---
+
+{% include base_path %}
+
 ---
 
 
