@@ -8,7 +8,7 @@ redirect_from:
   - /resources
   - /resouces.html
 ---
-
+---
 
 
 Quantum Chemistry Books: 
