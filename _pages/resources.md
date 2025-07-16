@@ -33,7 +33,7 @@ redirect_from:
 - **Quantum Computer Science: An Introduction**, N. David Mermin, ISBN: 9780521876582
 - **An Introduction to Quantum Computing**, Phillip Kaye, ISBN: 9780198570493
 
-## Quantum Physics and Condensed Matter Physics Books
+## Quantum Physics Books
 
 - **Quantum Theory, Groups and Representations: An Introduction**, Peter Woit, ISBN: 9783319878355
 - **Group Theory and Quantum Mechanics**, Michael Tinkham, ISBN: 9780486432472
