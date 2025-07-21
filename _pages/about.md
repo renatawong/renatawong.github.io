@@ -21,7 +21,7 @@ The lab aims to contribute to practical advancements in biomedical science by ex
 
 ## Contact
 
-Email address: see the menu to the left (on browsers), or click on `Follow` on mobile devices. 
+Email address: `quantum.lab.cgu@gmail.com`
 
 ---
 
