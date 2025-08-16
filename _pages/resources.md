@@ -26,7 +26,13 @@ Books currently in the Lab's possession include:
 
 ---
 
-# Arriving soon: 
+## Quantum Physics Books
+
+- **Group Theory and Quantum Mechanics**, Michael Tinkham, ISBN: 9780486432472
+
+---
+
+Arriving soon: 
 
 ## Quantum Computing and Quantum Information Books
 
@@ -38,7 +44,6 @@ Books currently in the Lab's possession include:
 ## Quantum Physics Books
 
 - **Quantum Theory, Groups and Representations: An Introduction**, Peter Woit, ISBN: 9783319878355
-- **Group Theory and Quantum Mechanics**, Michael Tinkham, ISBN: 9780486432472
 - **The Quantum Theory of Fields, Volume I: Foundations**, Steven Weinberg, ISBN: 9780521670531
 - **The Quantum Theory of Fields, Volume II: Modern Applications**, Steven Weinberg, ISBN: 9780521670548
 - **The Quantum Theory of Fields, Volume III: Supersymmetry**, Steven Weinberg, ISBN: 9780521670555
