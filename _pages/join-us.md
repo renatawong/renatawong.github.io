@@ -49,7 +49,7 @@ We currently offer 2 internship opportunities through NSTC's International Inter
 
 In due time, we plan to offer further internship opportunities through TEEP, which is an international internship program run by the Ministry of Education. See [https://teep.studyintaiwan.org/](https://teep.studyintaiwan.org/) for details.
 
-Please note that both IIPP and TEEP internships are funded by the respective funding agency (MOE or NSTC) and there will be no additional funding from the lab. Please also note that you will need to cover your flight and accommodation expenses by yourself. The accommodation will be provided by the university at a cost of TWD 520 per week per bed. 
+Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and accommodation expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
 
 ## Contact
 
