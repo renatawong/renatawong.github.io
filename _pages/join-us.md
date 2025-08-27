@@ -45,7 +45,11 @@ We don't offer any postdoc positions at this time.
 
 ## Internships
 
-We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.tw/mentor/22162](https://iipp.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council. The IIPP system has been closed as of July 1, 2025, and will reopen later this year. Please check the status in a timely manner if you are interested in applying. 
+We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.tw/mentor/22162](https://iipp.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council. Note: The IIPP system has been closed as of July 1, 2025, and will reopen later this year. Please check the status in a timely manner if you are interested in applying. 
+
+In due time, we plan to offer further internship opportunities through TEEP, which is an international internship program run by the Ministry of Education. See [https://teep.studyintaiwan.org/](https://teep.studyintaiwan.org/) for details.
+
+Please note that both IIPP and TEEP internships are funded by the respective funding agency (MOE or NSTC) and there will be no additional funding from the lab. Please also note that you will need to cover your flight and accommodation expenses by yourself. The accommodation will be provided by the university at a cost of TWD 520 per week per bed. 
 
 ## Contact
 
@@ -55,4 +59,3 @@ We currently offer 2 internship opportunities through NSTC's International Inter
 
 **Please note**: We reserve the right to change the rules listed herein without prior or further notice. 
 
-**Last updated: August 16, 2025**
