@@ -7,6 +7,6 @@ excerpt: 'In this work, we establish the equivalence between Support Vector Mach
 date: 2025-02-16
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2502.11153'
-citation: 'Nan-Hong Kuo and Tsung-Wei Chiang and Renata Wong (2025). &quot;SVM/SVR kernels as quantum propagators&quot; <i>arXiv</i>. 2502.11153.'
+citation: 'Nan-Hong Kuo and Renata Wong (2025). &quot;SVM/SVR kernels as quantum propagators&quot; <i>arXiv</i>. 2502.11153.'
 ---
 
