@@ -19,29 +19,27 @@ redirect_from:
 
 ## Benefits of joining our lab:
 
-Besides the mentorship of your project/thesis, you will gain access to our lab's resources, including our equipment (check the tab Equipment for what we offer).
+In addition to close mentorship on your project or thesis, you will have access to the lab’s resources and equipment (see the Equipment tab for details).
 
-## PhD students
+All positions are carried out within the Department of Artificial Intelligence, Chang Gung University, under the supervision of Prof. Renata Wong. When sending your inquiry, please attach your application materials. 
 
-If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about available opportunities. 
+## Prospective postdocs
 
-## Master's students
+We are not offering postdoctoral positions at this time. 
 
-If you are a master's student working in one of our research areas under the supervision of Prof. Renata Wong, you will become a member of the lab. 
+## Prospective PhD students
 
-## Bachelor's students
+If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about current opportunities.  
+
+## Prospective master's students
+
+If you are interested in pursuing a master's degree in one of our research areas, please contact us to inquire about possible supervision.
+
+## Undergraduate students (capstone)
 
 Bachelor’s students are encouraged to form a team of four and consult with us about potential research topics for their capstone project. We can supervise capstone projects in either  quantum computing (including quantum machine learning) or artificial intelligence. 
 
 If you are interested working on a capstone project in quantum computing, at this stage, you are most likely not familiar with it. Therefore, you are strongly encouraged to take Introduction to Quantum Computing in the fall. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials. 
-
-## International students
-
-If you are interested in pursuing your master's or doctoral degree at Chang Gung University under the supervision of Prof. Renata Wong, please contact us with your CV and other relevant materials.
-
-## Postdocs
-
-We don't offer any postdoc positions at this time. 
 
 ## Internships
 
