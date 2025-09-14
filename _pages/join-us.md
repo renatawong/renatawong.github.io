@@ -4,8 +4,7 @@ permalink: /join-us/
 title: "Join us"
 author_profile: true
 redirect_from: 
-  - /join-us/
-  - /join-us.html
+  - /join-us
 ---
 
 ---
