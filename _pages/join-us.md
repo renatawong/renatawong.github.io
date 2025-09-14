@@ -49,6 +49,10 @@ In due time, we plan to offer further internship opportunities through TEEP, whi
 
 Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and accommodation expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
 
+## Remote assistantships
+
+We don't offer remote positions. 
+
 ## Contact
 
 **Email address**: See the menu to the left (on browsers), or click on `Follow` (on mobile devices). **Please disclose any use of LLMs in your correspondence.** 
