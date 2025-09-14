@@ -39,7 +39,7 @@ If you are interested in pursuing a master's degree in one of our research areas
 
 Bachelor’s students at Chang Gung University are encouraged to form a team of four and consult with us about potential research topics for their capstone project. We can supervise capstone projects in either  quantum computing (including quantum machine learning) or artificial intelligence. 
 
-If you are interested working on a capstone project in quantum computing, at this stage, you are most likely not familiar with it. Therefore, you are strongly encouraged to take Introduction to Quantum Computing in the fall. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials. 
+If you are interested in working on a capstone project in quantum computing, at this stage, you are most likely not familiar with it. Therefore, you are strongly encouraged to take Introduction to Quantum Computing in the fall. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials. 
 
 ## Internships
 
