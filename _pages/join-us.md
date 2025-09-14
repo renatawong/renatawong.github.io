@@ -11,23 +11,23 @@ redirect_from:
 
 
 
-## Broad research areas of the Lab: 
+## Broad research areas of the lab: 
 
 1. **Quantum computing and quantum information** (including quantum machine learning)
 2. **Physics-informed machine learning** (particularly suitable for physics students)
 3. **Artificial intelligence for medical applications** (medical doctors, and medical students are also welcome)
 
-## Benefits of joining our Lab:
+## Benefits of joining our lab:
 
-Besides the mentorship of your project/thesis, you will gain access to our Lab's resources, including our equipment (check the tab Equipment for what we offer).
+Besides the mentorship of your project/thesis, you will gain access to our lab's resources, including our equipment (check the tab Equipment for what we offer).
 
 ## PhD students
 
-If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about available opportunities.
+If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about available opportunities. 
 
 ## Master's students
 
-If you are a master's student working in one of our research areas under the supervision of Prof. Renata Wong, you will become a member of the Lab. 
+If you are a master's student working in one of our research areas under the supervision of Prof. Renata Wong, you will become a member of the lab. 
 
 ## Bachelor's students
 
@@ -37,7 +37,7 @@ If you are interested working on a capstone project in quantum computing, at thi
 
 ## International students
 
-If you are interested in pursuing your master's degree at Chang Gung University under the supervision of Prof. Renata Wong, please contact us with your CV and other relevant materials.
+If you are interested in pursuing your master's or doctoral degree at Chang Gung University under the supervision of Prof. Renata Wong, please contact us with your CV and other relevant materials.
 
 ## Postdocs
 
