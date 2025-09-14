@@ -1,5 +1,6 @@
 ---
 layout: archive
+permalink: /join-us/
 title: "Join us"
 author_profile: true
 redirect_from: 
