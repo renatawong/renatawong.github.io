@@ -51,7 +51,11 @@ Please note that both IIPP and TEEP internships are funded by their respective a
 
 ## Teaching asssitants
 
-Teaching assistants for the courses Quantum Machine Learning and Introduction to Quantum Computing become lab members, and will obtain a regular TA remuneration from the university. No addiitonal funding will be provided by the lab. In order to be eligible for a teaching assistantship, you must have previously taken the respective course, performed well in the evaluation, and actively participated in it, by e.g., asking and answering questions. 
+Students serving as teaching assistants (TAs) for the courses Quantum Machine Learning and Introduction to Quantum Computing will become members of the lab and receive standard TA remuneration from the university. No additional funding will be provided by the lab.
+
+To be eligible for a teaching assistantship, you must have previously completed the respective course with strong performance and demonstrated active engagement - for example, by asking and answering questions during class.
+
+Interested candidates should contact Prof. Wong to inquire about current TA openings. 
 
 ## Remote and other types of positions
 
