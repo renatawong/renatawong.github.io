@@ -24,7 +24,7 @@ Interested candidates should contact Prof. Wong to inquire about current TA open
 - Advanced AI Prgramming, every Monday 9:00-12:00
 
 ## Courses being taught in the Fall 2025
-- Introduction to Quantum Computing, every Thursday 9:00-12:00, TA: Chieh-Ding Lai | 賴杰定
+- Introduction to Quantum Computing, every Thursday 9:00-12:00, TA: Chieh-Ding Lai (賴杰定)
 
 ## Courses taught in the Spring 2025
 - Introduction to Quantum Computing, every Tuesday 9:00-12:00
