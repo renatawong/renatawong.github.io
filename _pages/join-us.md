@@ -49,14 +49,6 @@ In due time, we plan to offer further internship opportunities through TEEP, whi
 
 Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and accommodation expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
 
-## Teaching asssitants
-
-Students serving as teaching assistants (TAs) for the courses Quantum Machine Learning and Introduction to Quantum Computing will become members of the lab and receive standard TA remuneration from the university. No additional funding will be provided by the lab.
-
-To be eligible for a teaching assistantship, you must have previously completed the respective course with strong performance and demonstrated active engagement - for example, by asking and answering questions during class.
-
-Interested candidates should contact Prof. Wong to inquire about current TA openings. 
-
 ## Remote and other types of positions
 
 The lab is part of the Department of Artificial Intelligence at Chang Gung University. Please note that we do not offer remote positions or opportunities outside of undergraduate or postgraduate study programs in the Department of Artificial Intelligence at Chang Gung University. In exceptional cases, opportunities are offered for undergraduate or graduate students at other departments in Taiwan.   
