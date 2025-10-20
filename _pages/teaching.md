@@ -36,6 +36,7 @@ Interested candidates should contact Prof. Wong to inquire about current TA open
 
 ## Courses taught in the Spring 2024
 - Introduction to Quantum Computing, every Tuesday 9:00-12:00
+- Programming Language for AI, every Thursday 13:00-16:00
 
 
 
