@@ -17,7 +17,7 @@ In order to be eligible for serving as a TA for the courses Quantum Machine Lear
 
 Interested candidates should contact Prof. Wong to inquire about current TA openings. 
 
----
+
 
 ## Courses planned for the Spring 2026
 - Quantum Machine Learning, every Wednesday 9:00-12:00
