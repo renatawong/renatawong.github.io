@@ -13,7 +13,7 @@ author_profile: true
 
 ## Teaching assistants (TAs)
 
-In order to be eligible for serving as a TA for the courses Quantum Machine Learning or Introduction to Quantum Computing, you must have previously completed the respective course with strong performance and demonstrated active engagement - for example, by asking and answering questions during or after class.
+In order to be eligible for serving as a TA for the courses Quantum Machine Learning or Introduction to Quantum Computing, you must have previously completed the respective course with strong performance and demonstrated active engagement - for example, by asking and answering questions during or outside of class.
 
 Interested candidates should contact Prof. Wong to inquire about current TA openings. 
 
