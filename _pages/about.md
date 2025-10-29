@@ -13,7 +13,7 @@ The Quantum AI Biomedical Research Lab focuses on research at the intersection o
 
 Our team is currently small, but versatile. It brings together researchers with backgrounds in quantum information, machine learning, bioinformatics, and physics.
 
-The lab aims to contribute to practical advancements in biomedical science by exploring the real-world potential of quantum and AI technologies in healthcare and medical research. 
+The lab aims to contribute to practical advancements in biomedical science by exploring the real-world potential of quantum and AI technologies in healthcare and medical research. We also seek to understand where quantum processors could provide advantage and how they can be best combined with existing classical techniques.
 
 ---
 
