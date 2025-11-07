@@ -29,7 +29,7 @@ We are not offering postdoctoral positions at this time.
 
 ## Prospective PhD students
 
-If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about potential supervision. 
+If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about potential thesis supervision. 
 
 ## Prospective master's students
 
