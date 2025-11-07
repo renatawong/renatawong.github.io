@@ -21,7 +21,7 @@ redirect_from:
 
 In addition to close mentorship on your project or thesis, you will have access to the lab’s resources and equipment (see the Equipment tab for details).
 
-All positions are carried out within the Department of Artificial Intelligence, Chang Gung University, under the supervision of Prof. Renata Wong. When sending your inquiry, please attach your application materials. 
+All positions are carried out within the Department of Artificial Intelligence, Chang Gung University (CGU), under the supervision of Prof. Renata Wong. When sending your inquiry, please attach your application materials. 
 
 ## Prospective postdocs
 
@@ -33,7 +33,7 @@ If you are interested in pursuing a PhD in one of our research areas, please con
 
 ## Prospective master's students
 
-If you are interested in pursuing a master's degree in one of our research areas, please contact us to inquire about potential supervision. 
+If you are interested in joining the lab, you may consider applying to the CGU master's program and indicate your interest in working with Prof Wong as your thesis advisor.
 
 ## Undergraduate students (capstone)
 
@@ -51,7 +51,7 @@ Please note that both IIPP and TEEP internships are funded by their respective a
 
 ## Remote and other types of positions
 
-The lab is part of the Department of Artificial Intelligence at Chang Gung University. Please note that we do not offer remote positions or opportunities outside of undergraduate or postgraduate study programs in the Department of Artificial Intelligence at Chang Gung University. In exceptional cases, opportunities are offered for undergraduate or graduate students at other departments in Taiwan.   
+The lab is part of the Department of Artificial Intelligence at Chang Gung University. Please note that we do not offer remote positions or opportunities outside of undergraduate or graduate study programs in the Department of Artificial Intelligence at Chang Gung University. In exceptional cases, opportunities are offered for undergraduate or graduate students at other universities in Taiwan.   
 
 ## Contact
 
