@@ -19,7 +19,7 @@ redirect_from:
 
 ## Benefits of joining our lab:
 
-In addition to close mentorship on your project or thesis, you will have access to the lab’s resources and equipment (see the Equipment tab for details).
+In addition to close mentorship on your undergraduate project or graduate thesis, you will have access to the lab’s resources and equipment (see the Equipment tab for details).
 
 All positions are carried out within the Department of Artificial Intelligence, Chang Gung University (CGU), under the supervision of Prof. Renata Wong. When sending your inquiry, please attach your application materials. 
 
