@@ -33,7 +33,7 @@ If you are interested in pursuing a PhD in one of our research areas, please con
 
 ## Prospective master's students
 
-If you are interested in joining the lab, you may consider applying to the CGU master's program and indicate your interest in working with Prof Wong as your thesis advisor.
+If you are interested in joining the lab, you are welcome to apply to the CGU master's program and indicate your interest in working with Prof Wong as your thesis advisor.
 
 ## Undergraduate students (capstone)
 
