@@ -35,6 +35,8 @@ If you are interested in pursuing a PhD in one of our research areas, please con
 
 If you are interested in joining the lab, you are welcome to apply to the CGU master's program and indicate your interest in working with Prof Wong as your thesis advisor.
 
+If you are a foreign student, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605)
+
 ## Undergraduate students (capstone)
 
 Bachelor’s students at Chang Gung University are encouraged to form a team of four and consult with us about potential research topics for their capstone project. We can supervise capstone projects in either  quantum computing (including quantum machine learning) or artificial intelligence. 
