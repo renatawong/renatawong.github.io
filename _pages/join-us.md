@@ -31,13 +31,13 @@ We are not offering postdoctoral positions at this time.
 
 If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about potential thesis supervision. 
 
-If you are a foreign student and you fit exceptionally well into a current project at the lab, we may be able to offer you the CGU scholarship: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604)
+If you are a foreign student and you fit exceptionally well into a current project at the lab, we may be able to offer you the CGU scholarship: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604). The part of the stipend that is provided by the advisor will be your RA salary. 
 
 ## Prospective master's students
 
 If you are interested in joining the lab, you are welcome to apply to the CGU master's program and indicate your interest in working with Prof Wong as your thesis advisor.
 
-If you are a foreign student, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605)
+If you are a foreign student, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605). The part of the stipend that is provided by the advisor will be your RA salary. 
 
 ## Undergraduate students (capstone)
 
