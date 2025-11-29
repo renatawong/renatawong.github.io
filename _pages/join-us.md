@@ -43,7 +43,7 @@ If you are a foreign student, we may be able to offer you the supervisor-sponsor
 
 Bachelor’s students at Chang Gung University are encouraged to form a team of four and consult with us about potential research topics for their capstone project. We can supervise capstone projects in either  quantum computing (including quantum machine learning) or artificial intelligence. 
 
-We understand that most students may not yet be familiar with quantum computing. Therefore, you are strongly encouraged to take Introduction to Quantum Computing in the fall. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials. 
+For quantum computing projects, you are strongly encouraged to take Introduction to Quantum Computing in the fall semester. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials if needed. Without an understanding of at least the basics of quantum computing you will not be able to carry out a project in the field. 
 
 ## Internships
 
