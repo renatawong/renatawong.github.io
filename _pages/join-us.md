@@ -59,7 +59,7 @@ The lab is part of the Department of Artificial Intelligence at Chang Gung Unive
 
 ## Important remarks
 ### International students
-Please note that the lab is unable to provide letters of guarantee for applicants from countries classified as "designated countries" under Taiwan’s immigration rules.
+Please note that the lab is unable to provide letters of guarantee for applicants from countries classified as "designated countries" under Taiwan’s immigration rules. For details see [https://www.boca.gov.tw/cp-159-249-4162c-2.html](https://www.boca.gov.tw/cp-159-249-4162c-2.html).
 ### Taiwanese students
 Please be aware that, due to budget limitations, the laboratory is generally unable to offer paid positions to Taiwanese students. Most of our funding is dedicated to providing scholarships for international students, without which they would not be able to study at CGU. We appreciate your understanding. 
 
