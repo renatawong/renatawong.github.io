@@ -57,8 +57,11 @@ Please note that both IIPP and TEEP internships are funded by their respective a
 
 The lab is part of the Department of Artificial Intelligence at Chang Gung University. Please note that we do not offer remote positions or opportunities outside of undergraduate or graduate study programs in the Department of Artificial Intelligence at Chang Gung University. In exceptional cases, opportunities are offered for undergraduate or graduate students at other universities in Taiwan.   
 
-## International students
+## Important remarks
+### International students
 Please note that the lab is unable to provide letters of guarantee for applicants from countries classified as "designated countries" under Taiwan’s immigration rules.
+### Taiwanese students
+Please be aware that, due to budget limitations, the laboratory is generally unable to offer paid positions to Taiwanese students. Most of our funding is dedicated to providing scholarships for international students, without which they would not be able to study at CGU. We appreciate your understanding. 
 
 ## Contact
 
