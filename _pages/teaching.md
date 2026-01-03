@@ -23,7 +23,7 @@ In case of multiple qualified applicants, preference may be given to members of 
 - Quantum Machine Learning, every Wednesday 9:00-12:00
 - Advanced AI Prgramming, every Monday 9:00-12:00
 
-## Courses being taught in the Fall 2025
+## Courses taught in the Fall 2025
 - Introduction to Quantum Computing, every Thursday 9:00-12:00, TA: Chieh-Ding Lai (賴杰定)
 
 ## Courses taught in the Spring 2025
