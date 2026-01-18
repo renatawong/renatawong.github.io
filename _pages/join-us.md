@@ -26,7 +26,7 @@ All positions are carried out within the Department of Artificial Intelligence, 
 
 ## Am I a good fit?
 
-As a multidisciplinary research group, we seek students who demonstrate solid background knowledge, intellectual curiosity, the ability to learn independently, initiative in pushing projects forward, and strong communication skills for effective collaboration and scientific work. 
+As a multidisciplinary group, we value curiosity, self-driven learning, proactive initiative, good communication skills, and a solid background in relevant subject areas. 
 
 ## Prospective postdocs
 
