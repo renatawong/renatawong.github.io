@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 
-
 ## Broad research areas of the lab: 
 
 1. **Quantum computing and quantum information** (including quantum machine learning)
@@ -22,6 +21,12 @@ redirect_from:
 In addition to close mentorship on your undergraduate project or graduate thesis, you will have access to the lab’s resources and equipment (see the Equipment and Resources tabs for details).
 
 All positions are carried out within the Department of Artificial Intelligence, Chang Gung University (CGU), under the supervision of Prof. Renata Wong. When sending your inquiry, please attach your application materials. 
+
+---
+
+## Am I a good fit?
+
+As a multidisciplinary research group, we seek students who demonstrate solid background knowledge, intellectual curiosity, the ability to learn independently, initiative in pushing projects forward, and strong communication skills for effective collaboration and scientific work. 
 
 ## Prospective postdocs
 
