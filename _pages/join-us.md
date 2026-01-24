@@ -63,7 +63,7 @@ See the tab "Teaching" at [https://renatawong.github.io/teaching/](https://renat
 
 ## Remote and other types of positions
 
-Please note that we do not offer remote positions or opportunities outside of undergraduate or graduate study programs in the Department of Artificial Intelligence at Chang Gung University. In exceptional cases, opportunities are offered to graduate students at other departments in Taiwan only. 
+Please be advised that we do not provide remote positions, nor do we offer opportunities to individuals outside the undergraduate and graduate programs within the Department of Artificial Intelligence at Chang Gung University. Exceptions may be made for graduate students from other departments within Taiwan. 
 
 ## Important remarks
 Please note that the lab is unable to provide letters of guarantee for applicants from countries classified as "designated countries" under Taiwan’s immigration rules. For details see [https://www.boca.gov.tw/cp-159-249-4162c-2.html](https://www.boca.gov.tw/cp-159-249-4162c-2.html).
