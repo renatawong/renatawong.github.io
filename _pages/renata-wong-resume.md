@@ -24,6 +24,9 @@ I am a research assistant professor for quantum computing at the Department of A
 
 # Relevant work experience
 
+* **2026/02-present: Section Head**
+  * International Technology Cooperation Section, Artificial Intelligence Research Center, Chang Gung University, Taiwan
+    
 * **2025/01-present: Assistant Research Fellow (joint appointment)**
   * Department of Neurology, Chang Gung Memorial Hospital, Keelung, Taiwan
     
