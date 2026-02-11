@@ -26,7 +26,7 @@ All positions are carried out within the Department of Artificial Intelligence, 
 
 ## Am I a good fit?
 
-As a multidisciplinary group, we value curiosity, self-driven learning, proactive initiative, good communication skills, and a solid background in relevant subject areas. 
+As a multidisciplinary group, we value curiosity, self-driven learning, proactive initiative, good communication skills, and a solid background in relevant subject areas. If you identify with these, you may be a good fit for us. 
 
 ## Prospective postdocs
 
