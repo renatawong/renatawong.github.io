@@ -34,9 +34,9 @@ As a multidisciplinary group, we value curiosity, self-driven learning, proactiv
 If you are considering quantum-related research, please note that you must have the following prerequisite knowledge:
 * quantum computing or quantum information or quantum mechanics
 * Python programming skills
-* experience with tools such as Qiskit, Cirq, or PennyLane (strong advantage)
+* experience with Qiskit, Cirq, or PennyLane
 
-Applicants with only classical machine learning or data science backgrounds are unlikely to be competitive unless they have independently studied quantum computing.
+Experience with classical machine learning is helpful but not sufficient on its own.
 
 ## Prospective postdocs
 
