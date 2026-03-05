@@ -32,6 +32,7 @@ If you are considering quantum-related research, please note that you must have 
 * quantum computing or quantum information or quantum mechanics
 * Python programming skills
 * experience with tools such as Qiskit, Cirq, or PennyLane (strong advantage)
+
 Applicants with only classical machine learning or data science backgrounds are unlikely to be competitive unless they have independently studied quantum computing.
 
 ## Prospective postdocs
