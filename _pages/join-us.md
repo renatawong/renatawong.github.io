@@ -29,7 +29,7 @@ All positions are carried out within the Department of Artificial Intelligence, 
 As a multidisciplinary group, we value curiosity, self-driven learning, proactive initiative, good communication skills, and a solid background in relevant subject areas. If you identify with these qualities, you may be a good fit for us. 
 
 
-#### Background requirements for quantum-related research:
+### Background requirements for quantum-related research:
 
 If you are considering quantum-related research, please note that you must have the following prerequisite knowledge:
 * quantum computing or quantum information or quantum mechanics
