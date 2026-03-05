@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-## Broad research areas of the lab: 
+## Research areas of the lab: 
 
 1. **Quantum computing and quantum information** (including quantum machine learning)
 2. **Physics-informed machine learning**
@@ -27,6 +27,12 @@ All positions are carried out within the Department of Artificial Intelligence, 
 ## Am I a good fit?
 
 As a multidisciplinary group, we value curiosity, self-driven learning, proactive initiative, good communication skills, and a solid background in relevant subject areas. If you identify with these qualities, you may be a good fit for us. 
+
+If you are considering quantum-related research, please note that you must have the following prerequisite knowledge:
+* quantum computing or quantum information or quantum mechanics
+* Python programming skills
+* experience with tools such as Qiskit, Cirq, or PennyLane (strong advantage)
+Applicants with only classical machine learning or data science backgrounds are unlikely to be competitive unless they have independently studied quantum computing.
 
 ## Prospective postdocs
 
