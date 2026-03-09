@@ -16,6 +16,8 @@ redirect_from:
 2. **Physics-informed machine learning**
 3. **Artificial intelligence for healthcare and medical applications**
 
+---
+
 ## Benefits of joining our lab:
 
 In addition to close mentorship on your undergraduate project or graduate thesis, you will have access to the lab’s resources and equipment (see the Equipment and Resources tabs for details).
@@ -28,9 +30,13 @@ All positions are carried out within the Department of Artificial Intelligence, 
 
 As a multidisciplinary group, we value curiosity, self-driven learning, proactive initiative, good communication skills, and a solid background in relevant subject areas. If you identify with these qualities, you may be a good fit for us. 
 
+---
+
 ## Prospective postdocs
 
 We are not offering postdoctoral positions at this time. 
+
+---
 
 ## Prospective PhD students
 
@@ -38,17 +44,23 @@ If you are interested in pursuing a PhD in one of our research areas, please con
 
 If you are a foreign student and you fit exceptionally well into a current project at the lab, we may be able to offer you the CGU scholarship: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604). The part of the stipend that is provided by the advisor will be your RA salary. 
 
+---
+
 ## Prospective master's students
 
 If you are interested in joining the lab, you are welcome to apply to the CGU master's program and indicate your interest in working with Prof Wong as your thesis advisor.
 
 If you are a foreign student, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605). The part of the stipend that is provided by the advisor will be your RA salary. 
 
+---
+
 ## Undergraduate students (capstone)
 
 Bachelor’s students at Chang Gung University are encouraged to form a team of four and consult with us about potential research topics for their capstone project. We can supervise capstone projects in either  quantum computing (including quantum machine learning) or artificial intelligence. 
 
 For quantum computing projects, you are strongly encouraged to take Introduction to Quantum Computing in the fall semester. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials if needed. Without an understanding of at least the basics of quantum computing you will not be able to carry out a project in the field. 
+
+---
 
 ## Internships
 
@@ -58,8 +70,12 @@ In due time, we may offer further internship opportunities through TEEP, which i
 
 Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and accommodation expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
 
+---
+
 ## Prospective teaching assistants
 See the tab "Teaching" at [https://renatawong.github.io/teaching/](https://renatawong.github.io/teaching/)
+
+---
 
 ## Remote and other types of positions
 
@@ -68,6 +84,7 @@ Please be advised that we do not offer remote positions, nor do we provide oppor
 ## Important remarks
 Please note that the lab is unable to provide letters of guarantee for applicants from countries classified as "designated countries" under Taiwan’s immigration rules. For details see [https://www.boca.gov.tw/cp-159-249-4162c-2.html](https://www.boca.gov.tw/cp-159-249-4162c-2.html).
 
+---
 
 ## Contact
 
