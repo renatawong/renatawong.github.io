@@ -23,11 +23,13 @@ Due to the advanced and specialized nature of the material (e.g., Introduction t
 Only students with prior preparation and demonstrated interest in the subject will be considered. Candidates are also expected to maintain a professional and respectful attitude in all interactions.
 
 
+## Courses planned for the Fall 2026
+- Introduction to Quantum Computing, 3 credits
+- Fundamentals of Quantum Computation, 2 credits (Center for General Education)
 
-
-## Courses planned for the Spring 2026
+## Courses being taught in the Spring 2026
 - Quantum Machine Learning, every Wednesday 9:00-12:00
-- Advanced AI Prgramming, every Monday 9:00-12:00
+- Advanced AI Programming, every Monday 9:00-12:00
 
 ## Courses taught in the Fall 2025
 - Introduction to Quantum Computing, every Thursday 9:00-12:00, TA: Chieh-Ding Lai (賴杰定)
