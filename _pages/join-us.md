@@ -73,7 +73,7 @@ Please note that both IIPP and TEEP internships are funded by their respective a
 ---
 
 ## Prospective teaching assistants
-See the tab "Teaching" at [https://renatawong.github.io/teaching/](https://renatawong.github.io/teaching/)
+Teaching assistant positions are sometimes available; please see the “Teaching” tab at [https://renatawong.github.io/teaching/](https://renatawong.github.io/teaching/) for current opportunities and details. Please note that serving as a teaching assistant does not automatically imply membership in the lab. 
 
 ---
 
