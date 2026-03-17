@@ -12,10 +12,10 @@ redirect_from:
 
 ---
 
-Books currently in the Lab's possession include: 
+## Books currently in the Lab's possession include: 
 
 
-## Quantum Chemistry Books: 
+### Quantum Chemistry Books: 
 
 - **Essentials of Computational Chemistry: Theories and Models**, Christopher Cramer, ISBN: 978-0470091821
 - **Quantum Chemistry**, Donald A. McQuarrie, ISBN: 978-1891389504
@@ -25,7 +25,7 @@ Books currently in the Lab's possession include:
 - **Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory**, Attila Szabo and Neil S. Ostlund, ISBN: 978-0486691862
 
 
-## Quantum Physics Books
+### Quantum Physics Books
 
 - **Group Theory and Quantum Mechanics**, Michael Tinkham, ISBN: 9780486432472
 - **Quantum Theory, Groups and Representations: An Introduction**, Peter Woit, ISBN: 9783319878355
@@ -36,7 +36,7 @@ Books currently in the Lab's possession include:
 - **The Oxford Solid State Basics**, Steven H. Simon, ISBN: 9780199680771
 
 
-## Quantum Computing and Quantum Information Books
+### Quantum Computing and Quantum Information Books
 
 - **Mathematics of Quantum Computing: An Introduction**, Wolfgang Scherer, ISBN: 9783030123604
 - **Machine Learning with Quantum Computers**, Maria Schuld and Francesco Petruccione, ISBN: 9783030831004
@@ -44,7 +44,9 @@ Books currently in the Lab's possession include:
 - **An Introduction to Quantum Computing**, Phillip Kaye, Rymond LaFlamme, Michele Mosca, ISBN: 9780198570493
 
 
+---
 
+## IBM Quantum Credits program: [https://www.ibm.com/quantum/blog/quantum-credits](https://www.ibm.com/quantum/blog/quantum-credits)
 
 
 
