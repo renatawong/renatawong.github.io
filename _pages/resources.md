@@ -46,8 +46,8 @@ redirect_from:
 
 ---
 
-## IBM Quantum Credits program: [https://www.ibm.com/quantum/blog/quantum-credits](https://www.ibm.com/quantum/blog/quantum-credits)
-The program offers access to otherwise paywalled quantum systems for approved projects.
+## IBM Quantum Credits program
+The program offers project-based access to otherwise paywalled quantum systems for approved projects. For details see [https://www.ibm.com/quantum/blog/quantum-credits](https://www.ibm.com/quantum/blog/quantum-credits). Lab members may apply for the Credits program through Prof. Wong. 
 
 
 
