@@ -47,6 +47,7 @@ redirect_from:
 ---
 
 ## IBM Quantum Credits program: [https://www.ibm.com/quantum/blog/quantum-credits](https://www.ibm.com/quantum/blog/quantum-credits)
+The program offers access to otherwise paywalled quantum systems for approved projects.
 
 
 
