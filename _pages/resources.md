@@ -12,6 +12,8 @@ redirect_from:
 
 ---
 
+Resource list (with links):
+
 1. [Book inventory](#book-inventory)
 2. [IBM Quantum Credits program](#ibm-quantum-credits-program)
 
