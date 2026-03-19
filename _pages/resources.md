@@ -12,7 +12,12 @@ redirect_from:
 
 ---
 
-## Books currently in the Lab's possession include: 
+- [Books](#book-inventory)
+- [IBM Quantum Credits program](#ibm-quantum-credits-program)
+
+---
+
+## Book inventory
 
 
 ### Quantum Chemistry Books: 
