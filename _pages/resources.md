@@ -16,7 +16,7 @@ Resource list (with links):
 
 1. [Book inventory](#book-inventory)
 2. [IBM Quantum Credits program](#ibm-quantum-credits-program)
-3. [Singapore Quantum Hack-a-Month](#hack-a-month)
+3. [Singapore Quantum Hack-a-Month](#quantum-hack-a-month)
 
 ---
 
