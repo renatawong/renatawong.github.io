@@ -12,8 +12,8 @@ redirect_from:
 
 ---
 
-- [Book inventory](#book-inventory)
-- [IBM Quantum Credits program](#ibm-quantum-credits-program)
+1. [Book inventory](#book-inventory)
+2. [IBM Quantum Credits program](#ibm-quantum-credits-program)
 
 ---
 
