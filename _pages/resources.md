@@ -67,4 +67,4 @@ Centre for Quantum Technologies (CQT), Singapore, is organising a one-month-long
 
 ## Chang Gung Medical Foundation IRB approval
 
-Prof. Wong holds a joint appointment with the Department of Neurology at Chang Gung Memorial Hospital, Keelung. Research projects in the lab that involve human subject data may obtain Institutional Review Board (IRB) approval through her affiliation.
+Prof. Wong holds a joint appointment with the Department of Neurology at Chang Gung Memorial Hospital, Keelung. Research projects in the lab that involve human subject data may obtain Institutional Review Board (IRB) approval free of charge through her affiliation.
