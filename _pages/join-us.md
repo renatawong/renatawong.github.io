@@ -79,7 +79,9 @@ Teaching assistant positions are sometimes available; please see the “Teaching
 
 ## Remote and other types of positions
 
-Please be advised that we do not offer remote positions, nor do we provide opportunities to individuals outside the undergraduate and graduate programs within the Department of Artificial Intelligence at Chang Gung University. In exceptional cases, opportunities may be extended to graduate students from other departments within Taiwan. 
+Thank you for your interest in our lab. At present, we do not offer paid remote positions. Opportunities within the lab are primarily limited to undergraduate and graduate students enrolled in the Department of Artificial Intelligence at Chang Gung University. In exceptional cases, graduate students from other departments within Taiwan may be considered.
+
+We do, however, welcome remote participants to join as unpaid members. Individuals who wish to collaborate are encouraged to propose a project for joint research with our lab. 
 
 ## Applicants from 'designated countries'
 Please note that the lab is unable to provide letters of guarantee for applicants from countries classified as "designated countries" under Taiwan’s immigration rules. For details see [https://www.boca.gov.tw/cp-159-249-4162c-2.html](https://www.boca.gov.tw/cp-159-249-4162c-2.html).
