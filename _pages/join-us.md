@@ -66,7 +66,7 @@ For quantum computing projects, you are strongly encouraged to take Introduction
 
 We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.stpi.niar.org.tw/mentor/22162](https://iipp.stpi.niar.org.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council.  
 
-In due time, we may offer further internship opportunities through TEEP, which is an international internship program run by the Ministry of Education. See [https://teep.studyintaiwan.org/](https://teep.studyintaiwan.org/) for details.
+We currently offer 2 internship opportunities through Taiwan Experience Education Program (TEEP), an international internship program of the Ministry of Education. See [https://teep.studyintaiwan.org/program/1501](https://teep.studyintaiwan.org/program/1501) for details.
 
 Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and accommodation expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
 
