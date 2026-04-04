@@ -65,7 +65,7 @@ For quantum computing projects, you are strongly encouraged to take Introduction
 
 ## Internships
 
-From time we offer internship opportunities through IIPP and TEEP programs. 
+From time to time we offer internship opportunities through the IIPP and TEEP programs. 
 
 <!--We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.stpi.niar.org.tw/mentor/22162](https://iipp.stpi.niar.org.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council. --> 
 
