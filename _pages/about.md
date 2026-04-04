@@ -15,6 +15,13 @@ Our team is currently small, but highly versatile. It brings together researcher
 
 The lab aims to contribute to practical advancements in biomedical science by exploring the real-world potential of quantum and AI technologies in healthcare and medical research. We also seek to understand where quantum processors could provide advantage and how they can be best combined with existing classical techniques.
 
+## Research areas
+
+1. Quantum information science: quantum computing, quantum communication, and quantum sensing
+2. Quantum machine learning
+3. Physics-informed machine learning
+4. Artificial intelligence for healthcare and medical applications
+
 ---
 
 ## Contact
