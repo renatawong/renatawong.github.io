@@ -69,7 +69,7 @@ From time we offer internship opportunities through IIPP and TEEP programs.
 
 <!--We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.stpi.niar.org.tw/mentor/22162](https://iipp.stpi.niar.org.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council. --> 
 
-We currently offer 1 internship opportunity through Taiwan Experience Education Program (TEEP), an international internship program of the Ministry of Education. See [https://teep.studyintaiwan.org/program/1501](https://teep.studyintaiwan.org/program/1501) for details.
+We currently offer 1 internship opportunity through the Taiwan Experience Education Program (TEEP), an international internship program of the Ministry of Education. See [https://teep.studyintaiwan.org/program/1501](https://teep.studyintaiwan.org/program/1501) for details.
 
 Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and living expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
 
