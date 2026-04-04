@@ -12,9 +12,10 @@ redirect_from:
 
 ## Research areas of the lab: 
 
-1. **Quantum computing and quantum information** (including quantum machine learning)
-2. **Physics-informed machine learning**
-3. **Artificial intelligence for healthcare and medical applications**
+1. **Quantum information science: quantum computing, quantum communication, and quantum sensing**
+2. **Quantum machine learning**
+3. **Physics-informed machine learning**
+4. **Artificial intelligence for healthcare and medical applications**
 
 ---
 
