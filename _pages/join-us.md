@@ -71,7 +71,7 @@ From time we offer internship opportunities through IIPP and TEEP programs.
 
 We currently offer 1 internship opportunity through Taiwan Experience Education Program (TEEP), an international internship program of the Ministry of Education. See [https://teep.studyintaiwan.org/program/1501](https://teep.studyintaiwan.org/program/1501) for details.
 
-Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and accommodation expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
+Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and living expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
 
 ---
 
