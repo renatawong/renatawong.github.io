@@ -89,9 +89,7 @@ Please note that the lab is unable to provide letters of guarantee for applicant
 
 ---
 
-## Contact
-
-**Email address**: See the menu to the left (on browsers), or click on `Follow` (on mobile devices). **Please disclose any use of LLMs in your correspondence.** 
+## Notes
 
 **Please note**: Due to the high volume of inquiries we receive, we can only respond to messages that align with our current interests and priorities. If you do not hear from us within two weeks, please understand that we are unable to pursue your request. Thank you for your understanding.
 
