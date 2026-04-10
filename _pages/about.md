@@ -17,7 +17,7 @@ The lab aims to contribute to practical advancements in biomedical science by ex
 
 ## Research areas
 
-1. Quantum information science: quantum computing, quantum communication, and quantum sensing
+1. Quantum information science: quantum information, quantum computing, quantum sensing, and quantum communication
 2. Quantum machine learning and hybrid quantum-classical computation
 3. Physics-informed machine learning
 4. Artificial intelligence for healthcare and medical applications
