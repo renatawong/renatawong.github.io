@@ -24,8 +24,8 @@ Only students with prior preparation and demonstrated interest in the subject wi
 
 
 ## Courses planned for Fall 2026
-- Introduction to Quantum Computing, 3 credits
-- Fundamentals of Quantum Computation, 2 credits (Center for General Education)
+- Introduction to Quantum Computing, every Thursday 9:00-12:00, TA: Thanh Dat Nguyen
+- Quantum Information, every Wednesday 9:00-12:00
 
 ## Courses being taught in Spring 2026
 - Quantum Machine Learning, every Wednesday 9:00-12:00
