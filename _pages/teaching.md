@@ -22,6 +22,12 @@ Teaching assistant positions are available only to students who have:
 Due to the advanced and specialized nature of the material (e.g., Introduction to Quantum Computing, Quantum Machine Learning, Quantum Information), TA positions are not intended as general student employment.
 Only students with prior preparation and demonstrated interest in the subject will be considered. Candidates are also expected to maintain a professional and respectful attitude in all interactions.
 
+---
+
+**IBM Classroom Account**: Students in quantum computing, quantum machine learning, and quantum information courses will be given a free IBM Quantum account for the duration of the course. The account includes 10 free minutes per month to access selected 100+ qubit IBM backends: [https://www.ibm.com/quantum/blog/classroom-accounts](https://www.ibm.com/quantum/blog/classroom-accounts)
+
+---
+
 
 ## Courses planned for Fall 2026
 - Introduction to Quantum Computing, every Thursday 9:00-12:00, TA: Thanh Dat Nguyen
