@@ -79,7 +79,9 @@ Teaching assistant positions are sometimes available; please see the “Teaching
 ---
 
 ## Prospective Visehrad-Taiwan Scholarship researchers
-PhD candidates, doctoral and postdoctoral scholars who are citizens of Poland, Czechia, Slovakia or Hungary (the V4 group) and interested in working with Prof. Wong are encouraged to apply. Program details can be found at: [https://www.visegradfund.org/visegrad-taiwan-scholarships-apply](https://www.visegradfund.org/visegrad-taiwan-scholarships-apply)
+PhD students, doctoral researchers, and postdoctoral scholars who are citizens of Poland, Czechia, Slovakia, or Hungary (the Visegrad Four, V4) and are interested in conducting research under the supervision of Prof. Wong are encouraged to apply for the Visegrad–Taiwan Scholarship Program.
+
+For details about the program and the application process, please visit: [https://www.visegradfund.org/visegrad-taiwan-scholarships-apply](https://www.visegradfund.org/visegrad-taiwan-scholarships-apply)
 
 ---
 
