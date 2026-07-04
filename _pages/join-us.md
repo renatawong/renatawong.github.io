@@ -78,6 +78,11 @@ Teaching assistant positions are sometimes available; please see the “Teaching
 
 ---
 
+## Prospective Visehrad-Taiwan Scholarship students
+PhD candidates, doctoral and postdoctoral scholars who are citizens of Poland, Czechia, Slovakia or Hungary (the V4 group) and interested in working with Prof. Wong are encouraged to apply. Program details can be found at: [https://www.visegradfund.org/visegrad-taiwan-scholarships-apply](https://www.visegradfund.org/visegrad-taiwan-scholarships-apply)
+
+---
+
 ## Remote positions
 
 Thank you for your interest in our lab. At present, we do not offer paid remote positions. Opportunities within the lab are primarily limited to undergraduate and graduate students enrolled in the Department of Artificial Intelligence at Chang Gung University. In exceptional cases, graduate students from other departments within Taiwan may be considered.
