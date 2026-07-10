@@ -17,7 +17,6 @@ Resource list (with links):
 1. [Book inventory](#book-inventory)
 2. [IBM Quantum Credits program](#ibm-quantum-credits-program)
 3. [Chang Gung Medical Foundation IRB approval](#chang-gung-medical-foundation-irb-approval)
-4. [Singapore Quantum Hack-a-Month](#quantum-hack-a-month)
 
 ---
 
@@ -65,8 +64,5 @@ The program offers project-based access to otherwise paywalled quantum systems f
 
 Prof. Wong holds a joint appointment with the Department of Neurology at Chang Gung Memorial Hospital, Keelung. Research projects in the lab that involve human subject data may obtain Institutional Review Board (IRB) approval free of charge through her affiliation.
 
----
 
-## Quantum Hack-a-Month
-Centre for Quantum Technologies (CQT), Singapore, is organising a one-month-long quantum hackathon between June 1-26, 2026. Eligibility: doctoral students and post-docs. Cost: free (flight reimbursement, free accommodation, and a per diem). For details please see: [https://hackamonth.cqt.sg/](https://hackamonth.cqt.sg/).
 
