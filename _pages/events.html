@@ -6,3 +6,96 @@ author_profile: true
 redirect_from: 
   - /events
 ---
+
+<style>
+    /* Basic page styling */
+    body {
+      margin: 0;
+      padding: 2rem;
+      background-color: #eaeaea; /* Light grey background for the page */
+    }
+
+    /* Container for the entire set */
+    .event-photo-set {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      font-family: sans-serif;
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05); /* Slight shadow to make it pop */
+    }
+
+    /* The grid that handles 1 to 6 images automatically */
+    .photo-grid {
+      display: grid;
+      /* Responsive columns that are at least 250px wide */
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Styling for individual image containers */
+    .single-photo {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Styling to keep all images uniform */
+    .single-photo img {
+      width: 100%;
+      height: 250px; 
+      object-fit: cover; /* Prevents image stretching */
+      border-radius: 4px;
+      background-color: #ccc; /* Placeholder color before image loads */
+    }
+
+    /* The optional short captions under individual images */
+    .single-photo figcaption {
+      margin-top: 0.75rem;
+      font-size: 0.9rem;
+      color: #555;
+      text-align: center;
+      font-style: italic;
+    }
+
+    /* The mandatory general caption at the bottom */
+    .mandatory-set-caption {
+      padding-top: 1.5rem;
+      border-top: 1px solid #ddd;
+      font-size: 1.1rem;
+      line-height: 1.5;
+      color: #222;
+      text-align: center;
+    }
+  </style>
+
+
+
+
+  <section class="event-photo-set">
+    
+    <div class="photo-grid">
+      
+      <figure class="single-photo">
+        <img src="https://renatawong.github.io/images/estimating-molecular-energies.png" alt="Description of first event image">
+        <figcaption>Opening ceremonies at the main stage</figcaption>
+      </figure>
+
+      <figure class="single-photo">
+        <img src="https://renatawong.github.io/images/estimating-molecular-energies.png" alt="Description of second event image">
+        <figcaption>Guest speaker addressing the crowd</figcaption>
+      </figure>
+
+      <figure class="single-photo">
+        <img src="https://renatawong.github.io/images/estimating-molecular-energies.png" alt="Description of third event image">
+      </figure>
+      
+      </div>
+
+    <div class="mandatory-set-caption">
+      Highlights from the annual tech conference, showcasing the keynote speeches, networking sessions, and collaborative workshops that took place throughout the weekend.
+    </div>
+
+  </section>
