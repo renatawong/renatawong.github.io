@@ -23,7 +23,7 @@ Resource list (with links):
 ## Book inventory
 
 
-### Quantum Chemistry Books: 
+### Quantum chemistry: 
 
 - **Essentials of Computational Chemistry: Theories and Models**, Christopher Cramer, ISBN: 978-0470091821
 - **Quantum Chemistry**, Donald A. McQuarrie, ISBN: 978-1891389504
@@ -33,7 +33,7 @@ Resource list (with links):
 - **Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory**, Attila Szabo and Neil S. Ostlund, ISBN: 978-0486691862
 
 
-### Quantum Physics Books
+### Quantum physics:
 
 - **Group Theory and Quantum Mechanics**, Michael Tinkham, ISBN: 9780486432472
 - **Quantum Theory, Groups and Representations: An Introduction**, Peter Woit, ISBN: 9783319878355
@@ -44,7 +44,7 @@ Resource list (with links):
 - **The Oxford Solid State Basics**, Steven H. Simon, ISBN: 9780199680771
 
 
-### Quantum Computing and Quantum Information Books
+### Quantum computing and quantum information:
 
 - **Mathematics of Quantum Computing: An Introduction**, Wolfgang Scherer, ISBN: 9783030123604
 - **Machine Learning with Quantum Computers**, Maria Schuld and Francesco Petruccione, ISBN: 9783030831004
@@ -52,10 +52,15 @@ Resource list (with links):
 - **An Introduction to Quantum Computing**, Phillip Kaye, Rymond LaFlamme, Michele Mosca, ISBN: 9780198570493
 
 
-### Cryptography Books
 
-- **Memories of my work at the Cipher Bureau of the General Staff Second Department 1930-1945** (English and Polish language version), Marian Rejewski, ISBN: 978-83-232-2647-5. This book is a present from Prof. Krzysztof Dyczkowski, Dean of Collegium Mathematicum, Adam Mickiewicz University, Poznań, Poland. For more information on the work of Polish cryptographers on the Enigma machine see e.g. [https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski](https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski)
+### Other books:
 
+- **Memories of my work at the Cipher Bureau of the General Staff Second Department 1930-1945** (English and Polish language version), Marian Rejewski, ISBN: 978-83-232-2647-5. This book was kindly presented by Prof. Krzysztof Dyczkowski, Dean of the Collegium Mathematicum, Adam Mickiewicz University, Poznań, Poland.
+
+For an overview of the pioneering work of the Polish cryptographers who broke the Enigma cipher—Marian Rejewski, Jerzy Różycki, and Henryk Zygalski—see the IEEE Aerospace and Electronic Systems Society history article: [https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski](https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski)
+
+- **Zamek w Kórniku** (Polish language), Róża Kąsinowska, ISBN: 978-83-85213-69-7. This book was kindly presented by Dr. Cezary Mazurek, Head of the Department of Digital Medicine, Poznan Supercomputing and Networking Center, Poznań, Poland.
+- 
 
 ---
 
