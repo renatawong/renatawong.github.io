@@ -56,7 +56,7 @@ Resource list (with links):
 ### Other books:
 
 - **Memories of my work at the Cipher Bureau of the General Staff Second Department 1930-1945** (English and Polish language version), Marian Rejewski, ISBN: 978-83-232-2647-5. <br>This book was kindly presented by Prof. Krzysztof Dyczkowski, Dean of the Collegium Mathematicum, Adam Mickiewicz University, Poznań, Poland.
-<br>For an overview of the pioneering work of the Polish cryptographers who broke the Enigma cipher—Marian Rejewski, Jerzy Różycki, and Henryk Zygalski—see the IEEE Aerospace and Electronic Systems Society history article: [https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski](https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski)
+<br>For an overview of the pioneering work of the Polish cryptographers who broke the Enigma cipher - Marian Rejewski, Jerzy Różycki, and Henryk Zygalski - see the IEEE Aerospace and Electronic Systems Society history article: [https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski](https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski)
 
 - **Zamek w Kórniku** (Polish language), Róża Kąsinowska, ISBN: 978-83-85213-69-7.
   <br>This book was kindly presented by Dr. Cezary Mazurek, Head of the Department of Digital Medicine, Poznan Supercomputing and Networking Center, Poznań, Poland.
