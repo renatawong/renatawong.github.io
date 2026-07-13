@@ -52,6 +52,11 @@ Resource list (with links):
 - **An Introduction to Quantum Computing**, Phillip Kaye, Rymond LaFlamme, Michele Mosca, ISBN: 9780198570493
 
 
+### Cryptography Books
+
+- **Memories of my work at the Cipher Bureau of the General Staff Second Department 1930-1945** (English and Polish language version), Marian Rejewski, ISBN: 978-83-232-2647-5. This book is a present from Prof. Krzysztof Dyczkowski, Dean of Collegium Mathematicum, Adam Mickiewicz University, Poznań, Poland. For more information on the work of Polish cryptographers on the Enigma machine see e.g. [https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski](https://ieee-aess.org/post/blog/history-column-polish-cryptographers-marian-rejewski-jerzy-rozycki-and-henryk-zygalski)
+
+
 ---
 
 ## IBM Quantum Credits program
