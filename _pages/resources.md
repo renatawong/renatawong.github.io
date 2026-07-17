@@ -61,6 +61,8 @@ Resource list (with links):
 - **Zamek w Kórniku** (Polish language), Róża Kąsinowska, ISBN: 978-83-85213-69-7.
   <br>This book was kindly presented by Dr. Cezary Mazurek, Head of the Department of Digital Medicine, Poznan Supercomputing and Networking Center, Poznań, Poland.
 
+- **History and İstanbul**, Erdem Yücel, ISBN: 978-625-98789-0-4.
+
 
 ---
 
