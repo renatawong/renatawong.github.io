@@ -37,13 +37,22 @@ redirect_from:
     }
 
     /* Styling to keep all images uniform */
-    .single-photo img {
+    <!--.single-photo img {
       width: 100%;
       height: 250px; 
       object-fit: cover; /* Prevents image stretching */
       border-radius: 4px;
       background-color: #ccc; /* Placeholder color before image loads */
-    }
+    }-->
+  .single-photo img,
+.single-photo video {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 4px;
+  background-color: #ccc;
+  display: block;
+}
 
     /* The optional short captions under individual images */
     .single-photo figcaption {
@@ -278,11 +287,19 @@ redirect_from:
         <figcaption>Old Marketplace (Stary Rynek), Poznań</figcaption>
       </figure>
 
-      <figure class="single-photo">
+     <figure class="single-photo">
+      <video controls>
+        <source src="https://renatawong.github.io/images/koziolki-poznan-12-pm.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <figcaption>Poznań goats at midday</figcaption>
+    </figure>
+     
+      <!--<figure class="single-photo">
         <video controls width="640">
         <source src="https://renatawong.github.io/images/koziolki-poznan-12-pm.mp4" type="video/mp4"></video>
         <figcaption>Poznań goats at midday</figcaption>
-      </figure>
+      </figure>-->
       
       </div>
 
