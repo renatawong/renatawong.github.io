@@ -69,6 +69,8 @@ From time to time we offer internship opportunities through the IIPP and TEEP pr
 
 We currently offer 1 internship opportunity through the Taiwan Experience Education Program (TEEP), an international internship program administered by the Ministry of Education. See [https://teep.studyintaiwan.org/program/1740](https://teep.studyintaiwan.org/program/1740) for details.
 
+The application deadline for the current IIPP intake was 15 July 2026. If you are interested in applying, please watch for the announcement of the next application cycle in early 2027: [https://iipp.stpi.niar.org.tw/mentor/22162](https://iipp.stpi.niar.org.tw/mentor/22162)
+
 Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and living expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
 
 ---
