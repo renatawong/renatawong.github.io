@@ -15,8 +15,9 @@ redirect_from:
 Resource list (with links):
 
 1. [Book inventory](#book-inventory)
-2. [IBM Quantum Credits program](#ibm-quantum-credits-program)
-3. [Chang Gung Medical Foundation IRB approval](#chang-gung-medical-foundation-irb-approval)
+2. [Useful free software](#useful-free-software)
+3. [IBM Quantum Credits program](#ibm-quantum-credits-program)
+4. [Chang Gung Medical Foundation IRB approval](#chang-gung-medical-foundation-irb-approval)
 
 ---
 
@@ -63,6 +64,12 @@ Resource list (with links):
 
 - **History and İstanbul**, Erdem Yücel, ISBN: 978-625-98789-0-4.
 
+
+---
+
+## Useful free software
+
+- Unipro UGENE [https://ugene.net/](https://ugene.net/) is a free, open-source bioinformatics software suite that provides a graphical interface for many common tasks in molecular biology and genomics.
 
 ---
 
