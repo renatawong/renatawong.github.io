@@ -69,7 +69,7 @@ Resource list (with links):
 
 ## Useful free software
 
-- Unipro UGENE [https://ugene.net/](https://ugene.net/) is a free, open-source bioinformatics software suite that provides a graphical interface for many common tasks in molecular biology and genomics.
+- **Unipro UGENE** [https://ugene.net/](https://ugene.net/) is a free, open-source bioinformatics software suite that provides a graphical interface for many common tasks in molecular biology and genomics.
 
 ---
 
