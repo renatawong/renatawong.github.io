@@ -33,7 +33,7 @@ Only students with prior preparation and demonstrated interest in the subject wi
 - Introduction to Quantum Computing, every Thursday 9:00-12:00, TA: Thanh Dat Nguyen
 - Quantum Information, every Wednesday 9:00-12:00
 
-## Courses being taught in Spring 2026
+## Courses taught in Spring 2026
 - Quantum Machine Learning, every Wednesday 9:00-12:00
 - Advanced AI Programming, every Monday 9:00-12:00
 
