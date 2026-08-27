@@ -45,7 +45,7 @@ If you are a foreign applicant and you fit exceptionally well into a current pro
 
 If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Please note that recipients of this scholarship are not eligible to receive the CGU scholarship. Applications are accepted only in the fall semester. 
 
-Foreign applicants may also consider applying for the Taiwan ICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
+Foreign applicants may also consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
 
 
 ---
@@ -58,7 +58,7 @@ If you are a foreign applicant, we may be able to offer you the supervisor-spons
 
 If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Please note that recipients of this scholarship are not eligible to receive the CGU scholarship. Applications are accepted only in the fall semester. 
 
-Foreign applicants may also consider applying for the Taiwan ICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
+Foreign applicants may also consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
 
 ---
 
