@@ -25,6 +25,8 @@ All positions are carried out within the Department of Artificial Intelligence, 
 
 **Please note**: Due to the high volume of inquiries we receive, we can only respond to messages that align with our current interests and priorities. If you do not hear from us within two weeks, please understand that we are unable to pursue your request. Thank you for your understanding.
 
+Please check the Notes at the bottom of the page as well. 
+
 ---
 
 ## Am I a good fit?
@@ -106,12 +108,12 @@ Thank you for your interest in our lab. At present, we do not offer paid remote 
 
 We do, however, welcome remote participants to join as unpaid members. Individuals who wish to collaborate are encouraged to propose a project for joint research with our lab. 
 
-## Applicants from 'designated countries'
-Please note that the lab is unable to provide letters of guarantee for applicants from countries classified as "designated countries" under Taiwan’s immigration rules. For details see [https://www.boca.gov.tw/cp-159-249-4162c-2.html](https://www.boca.gov.tw/cp-159-249-4162c-2.html).
-
 ---
 
 ## Notes
+
+**Applicants from 'designated countries'** Please note that the lab is unable to provide letters of guarantee for applicants from countries classified as "designated countries" under Taiwan’s immigration rules. For details see [https://www.boca.gov.tw/cp-159-249-4162c-2.html](https://www.boca.gov.tw/cp-159-249-4162c-2.html).
+
 
 **Please note**: We reserve the right to change the rules listed herein without prior or further notice. 
 
