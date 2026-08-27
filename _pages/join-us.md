@@ -68,6 +68,8 @@ Bachelor’s students at Chang Gung University interested in executing their cap
 
 For quantum computing projects, you are strongly encouraged to take Introduction to Quantum Computing in the fall semester. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials if needed. Without an understanding of at least the basics of quantum computing you will not be able to carry out a project in the field. 
 
+Foreign applicants for undergraduate programs at Chang Gung University may consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
+
 ---
 
 ## Internships
