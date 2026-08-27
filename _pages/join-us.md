@@ -43,7 +43,10 @@ If you are interested in pursuing a PhD in one of our research areas, please con
 
 If you are a foreign applicant and you fit exceptionally well into a current project at the lab, we may be able to offer you the CGU scholarship: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604). The part of the stipend that is provided by the advisor will be your RA salary. 
 
-If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: (https://taiwanscholarship.moe.gov.tw/web/index.aspx)[https://taiwanscholarship.moe.gov.tw/web/index.aspx]. Please note that recipients of this scholarship are not eligible to receive the CGU scholarship. Applications are accepted only in the fall semester. 
+If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Please note that recipients of this scholarship are not eligible to receive the CGU scholarship. Applications are accepted only in the fall semester. 
+
+Foreign applicants may also consider applying for the Taiwan ICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
+
 
 ---
 
@@ -53,7 +56,9 @@ If you are interested in joining the lab, you are welcome to apply to the CGU ma
 
 If you are a foreign applicant, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605). The part of the stipend that is provided by the advisor will be your RA salary. 
 
-If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: (https://taiwanscholarship.moe.gov.tw/web/index.aspx)[https://taiwanscholarship.moe.gov.tw/web/index.aspx]. Please note that recipients of this scholarship are not eligible to receive the CGU scholarship. Applications are accepted only in the fall semester. 
+If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Please note that recipients of this scholarship are not eligible to receive the CGU scholarship. Applications are accepted only in the fall semester. 
+
+Foreign applicants may also consider applying for the Taiwan ICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
 
 ---
 
