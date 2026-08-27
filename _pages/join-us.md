@@ -23,6 +23,8 @@ In addition to close mentorship on your undergraduate project or graduate thesis
 
 All positions are carried out within the Department of Artificial Intelligence, Chang Gung University (CGU), under the supervision of Prof. Renata Wong. When sending your inquiry, please attach your application materials. 
 
+**Please note**: Due to the high volume of inquiries we receive, we can only respond to messages that align with our current interests and priorities. If you do not hear from us within two weeks, please understand that we are unable to pursue your request. Thank you for your understanding.
+
 ---
 
 ## Am I a good fit?
@@ -110,8 +112,6 @@ Please note that the lab is unable to provide letters of guarantee for applicant
 ---
 
 ## Notes
-
-**Please note**: Due to the high volume of inquiries we receive, we can only respond to messages that align with our current interests and priorities. If you do not hear from us within two weeks, please understand that we are unable to pursue your request. Thank you for your understanding.
 
 **Please note**: We reserve the right to change the rules listed herein without prior or further notice. 
 
