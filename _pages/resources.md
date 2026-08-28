@@ -15,9 +15,10 @@ redirect_from:
 Resource list (with links):
 
 1. [Book inventory](#book-inventory)
-2. [Useful free software](#useful-free-software)
-3. [IBM Quantum Credits program](#ibm-quantum-credits-program)
-4. [Chang Gung Medical Foundation IRB approval](#chang-gung-medical-foundation-irb-approval)
+2. [National Center for High-Performance Computing](#gpu-access)
+3. [Useful free software](#useful-free-software)
+4. [IBM Quantum Credits program](#ibm-quantum-credits-program)
+5. [Chang Gung Medical Foundation IRB approval](#chang-gung-medical-foundation-irb-approval)
 
 ---
 
@@ -64,6 +65,13 @@ Resource list (with links):
 
 - **History and İstanbul**, Erdem Yücel, ISBN: 978-625-98789-0-4.
 
+
+
+---
+
+## National Center for High-Performance Computing
+
+NCHPC offers discounted access to GPUs and CPUs for universities: [https://www.nchc.org.tw/](https://www.nchc.org.tw/).
 
 ---
 
