@@ -78,15 +78,15 @@ Foreign applicants for undergraduate programs at Chang Gung University may consi
 
 ## Internships
 
-From time to time we offer internship opportunities through the IIPP and TEEP programs. 
+From time to time, we offer internship opportunities through the IIPP and TEEP programs. The IIPP intake opens early each year and typically closes around July. The TEEP intake also opens early in the year, but since it is project-based, there is no strict application deadline. Approval is handled on a project-by-project basis by the PI. 
 
 <!--We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.stpi.niar.org.tw/mentor/22162](https://iipp.stpi.niar.org.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council. --> 
 
-We currently offer 1 internship opportunity through the Taiwan Experience Education Program (TEEP), an international internship program administered by the Ministry of Education. See [https://teep.studyintaiwan.org/program/1740](https://teep.studyintaiwan.org/program/1740) for details.
+<!--We currently offer 1 internship opportunity through the Taiwan Experience Education Program (TEEP), an international internship program administered by the Ministry of Education. See [https://teep.studyintaiwan.org/program/1740](https://teep.studyintaiwan.org/program/1740) for details.-->
 
-The application deadline for the current IIPP intake was 15 July 2026. If you are interested in applying, please watch for the announcement of the next application cycle in early 2027: [https://iipp.stpi.niar.org.tw/mentor/22162](https://iipp.stpi.niar.org.tw/mentor/22162)
+<!--The application deadline for the current IIPP intake was 15 July 2026. If you are interested in applying, please watch for the announcement of the next application cycle in early 2027: [https://iipp.stpi.niar.org.tw/mentor/22162](https://iipp.stpi.niar.org.tw/mentor/22162)-->
 
-Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and living expenses. The university offers accommodation at a cost of TWD 520 per week per bed. 
+Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and living expenses. The university offers affordable accommodation at a cost of TWD 520 per week per bed in a quad-room. 
 
 ---
 
