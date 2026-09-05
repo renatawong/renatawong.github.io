@@ -61,9 +61,11 @@ If you are interested in joining the lab, you are welcome to apply to the CGU ma
 
 If you are a foreign applicant, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605). The part of the stipend that is provided by the advisor will be your RA salary. 
 
-If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Please note that recipients of this scholarship are not eligible to receive the CGU scholarship. Applications are accepted only in the fall semester. 
+If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Applications are accepted only for the fall semester. 
 
-Foreign applicants may also consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
+Foreign applicants may also consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website.
+
+Please note that applicants may hold **only one scholarship at a time**.
 
 ---
 
