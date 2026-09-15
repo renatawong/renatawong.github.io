@@ -74,6 +74,50 @@ redirect_from:
       text-align: left;
       font-style: italic;
     }
+
+
+
+  .event-item {
+  display: grid;
+  grid-template-columns: minmax(250px, 400px) 1fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.event-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.event-description h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.event-description p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Stack image and text on smaller screens */
+@media (max-width: 700px) {
+  .event-item {
+    grid-template-columns: 1fr;
+  }
+
+  .event-image {
+    text-align: center;
+  }
+
+  .event-image img {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+}
+
+  
   </style>
 
 
@@ -81,12 +125,12 @@ redirect_from:
 
 <section class="event-photo-set">
 
-  <div class="photo-grid">
+  <div class="event-description">
 
     
       <img src="https://renatawong.github.io/images/QGSS2026-logo.png"
            alt="Qiskit Global Summer School 2026">
-      <figcaption>
+      <p>
         The two-week Qiskit Global Summer School 2026: A Decade on the Cloud,
         organized by IBM Quantum, ran from 13–24 July 2026. Four members of the
         Quantum AI Biomedical Research Lab — Renata Wong, Yu-Hao Chen, Thanh Dat
@@ -95,7 +139,7 @@ redirect_from:
         hands-on learning in quantum computing and Qiskit. The Excellence Badge
         required participants to complete at least 80% of the core lectures
         and all laboratory assignments.
-      </figcaption>
+      <p>
  
 
   </div>
