@@ -49,7 +49,7 @@ If you are a foreign applicant and you fit exceptionally well into a current pro
 
 Foreign applicants are also strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Applications are accepted only for studies beginning in the fall semester. The scholarship provides a monthly stipend of NTD 20,000, free dormitory accommodation, and a waiver of tuition and fees. 
 
-Foreign applicants are also strongly encouraged to apply for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website. The scholarship provides a monthly stipend of NTD 18,000, free dormitory accommodation, a waiver of tuition and fees, and reimbursement of travel expenses to Taiwan.
+Foreign applicants are also strongly encouraged to apply for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website. The scholarship provides a monthly stipend of NTD 20,000, free dormitory accommodation, a waiver of tuition and fees, and reimbursement of travel expenses to Taiwan.
 
 Please note that applicants may hold **only one scholarship at a time**.
 
@@ -59,11 +59,11 @@ Please note that applicants may hold **only one scholarship at a time**.
 
 If you are interested in joining the lab, you are welcome to apply to the CGU master's program and indicate your interest in working with Prof Wong as your thesis advisor.
 
-If you are a foreign applicant, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605). The part of the stipend that is provided by the advisor will be your RA salary. The scholarship consists of a monthly stipend of NTD 6,000, waiver of study fees, and free dormitory accommodation. 
+If you are a foreign applicant, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605). The part of the stipend that is provided by the advisor will be your RA salary. The scholarship consists of a monthly stipend of NTD 6,000, free dormitory accommodation, and a waiver of tuition and fees. 
 
-If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Applications are accepted only for studies starting in the fall semester. 
+Foreign applicants are also strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Applications are accepted only for studies beginning in the fall semester. The scholarship provides a monthly stipend of NTD 20,000, free dormitory accommodation, and a waiver of tuition and fees. 
 
-Foreign applicants may also consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website.
+Foreign applicants are also strongly encouraged to apply for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website. The scholarship provides a monthly stipend of NTD 18,000, free dormitory accommodation, a waiver of tuition and fees, and reimbursement of travel expenses to Taiwan.
 
 Please note that applicants may hold **only one scholarship at a time**.
 
@@ -77,13 +77,11 @@ For details about the program and the application process, please visit: [https:
 
 ---
 
-## Undergraduate students (capstone)
+## Undergraduate students (capstone project students)
 
 Bachelor’s students at Chang Gung University interested in executing their capstone project in one of the lab's research areas are encouraged to form a team of four and consult with us about potential research topics for their project. We can supervise capstone projects in either quantum computing (including quantum machine learning) or artificial intelligence. 
 
 For quantum computing projects, you are strongly encouraged to take Introduction to Quantum Computing in the fall semester. The course is open to both senior students and master's students. You can also start learning quantum computing before taking the course. Please inquire with us about the learning materials if needed. Without an understanding of at least the basics of quantum computing you will not be able to carry out a project in the field. 
-
-Foreign applicants for undergraduate programs at Chang Gung University may consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2).
 
 ---
 
