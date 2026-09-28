@@ -45,11 +45,11 @@ We are not offering postdoctoral positions at this time.
 
 If you are interested in pursuing a PhD in one of our research areas, please contact us to inquire about potential thesis supervision. 
 
-If you are a foreign applicant and you fit exceptionally well into a current project at the lab, we may be able to offer you the CGU scholarship: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604). The part of the stipend that is provided by the advisor will be your RA salary. 
+If you are a foreign applicant and you fit exceptionally well into a current project at the lab, we may be able to offer you the CGU scholarship: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17604). The portion of the scholarship provided by the advisor will be paid as your RA salary. The total CGU Scholarship amount is NTD 30,000 per month. Scholarship recipients are responsible for covering tuition and fees, accommodation, and other living expenses. 
 
-If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Applications are accepted only for the fall semester. 
+Foreign applicants are also strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Applications are accepted only for studies beginning in the fall semester. The scholarship provides a monthly stipend of NTD 20,000, free dormitory accommodation, and a waiver of tuition and fees. 
 
-Foreign applicants may also consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website.
+Foreign applicants are also strongly encouraged to apply for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website. The scholarship provides a monthly stipend of NTD 18,000, free dormitory accommodation, a waiver of tuition and fees, and reimbursement of travel expenses to Taiwan.
 
 Please note that applicants may hold **only one scholarship at a time**.
 
@@ -59,9 +59,9 @@ Please note that applicants may hold **only one scholarship at a time**.
 
 If you are interested in joining the lab, you are welcome to apply to the CGU master's program and indicate your interest in working with Prof Wong as your thesis advisor.
 
-If you are a foreign applicant, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605). The part of the stipend that is provided by the advisor will be your RA salary. 
+If you are a foreign applicant, we may be able to offer you the supervisor-sponsored CGU scholarship (scheme 2) if you are accepted: [https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605](https://www.cgu.edu.tw/recruit_intl/Contents?nodeId=17605). The part of the stipend that is provided by the advisor will be your RA salary. The scholarship consists of a monthly stipend of NTD 6,000, waiver of study fees, and free dormitory accommodation. 
 
-If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Applications are accepted only for the fall semester. 
+If you are a foreign applicant, you are strongly encouraged to apply for the Taiwan Scholarship Program: [https://taiwanscholarship.moe.gov.tw/web/index.aspx](https://taiwanscholarship.moe.gov.tw/web/index.aspx). Applications are accepted only for studies starting in the fall semester. 
 
 Foreign applicants may also consider applying for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website.
 
