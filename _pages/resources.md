@@ -15,10 +15,11 @@ redirect_from:
 Resource list (with links):
 
 1. [Book inventory](#book-inventory)
-2. [National Center for High-Performance Computing](#gpu-access)
-3. [Useful free software](#useful-free-software)
-4. [IBM Quantum Credits program](#ibm-quantum-credits-program)
-5. [Chang Gung Medical Foundation IRB approval](#chang-gung-medical-foundation-irb-approval)
+2. [Study in Poland](#study-in-poland)
+3. [National Center for High-Performance Computing](#gpu-access)
+4. [Useful free software](#useful-free-software)
+5. [IBM Quantum Credits program](#ibm-quantum-credits-program)
+6. [Chang Gung Medical Foundation IRB approval](#chang-gung-medical-foundation-irb-approval)
 
 ---
 
@@ -65,6 +66,20 @@ Resource list (with links):
 
 - **History and İstanbul**, Erdem Yücel, ISBN: 978-625-98789-0-4.
 
+
+
+---
+
+## Study in Poland
+### Exchange Opportunities at Poznan University of Technology (Politechnika Poznańska)
+
+Chang Gung University (CGU) students have the opportunity to study in Poland through the university’s international exchange program. Poznan University of Technology is a partner institution offering 5–10 exchange places for undergraduate and graduate students. Applicants are required to meet the applicable academic criteria and demonstrate English proficiency at the B2 level. The program offers exemption from tuition fees at the host university. Learn more about the exchange program through the CGU Office of International Affairs: [https://www.cgu.edu.tw/oia/ServerFile/GetByKindEditor/3f910831-9c84-4ec8-9842-cafb97050388?subjectId=66358&id=Translated-14&sheet=Translated&row=15](link here)
+
+Poland has a distinguished scientific and cultural heritage. Notable figures associated with the country include physicist and chemist Maria Skłodowska-Curie, astronomer Nicolaus Copernicus, and composer Fryderyk Chopin. Nobel Prize-winning American biologist Victor Ambros, recognized for the discovery of microRNAs, has become Polish citizen in 2026.
+
+Studying in Poland offers students an opportunity to experience European higher education while discovering a country known for its historic cities, architecture, and natural landscapes.
+
+Watch a short video introducing Poland from the sky: [https://www.youtube.com/shorts/9nMBuqS1g6M](https://www.youtube.com/shorts/9nMBuqS1g6M)
 
 
 ---
