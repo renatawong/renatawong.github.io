@@ -29,7 +29,7 @@ Only students with prior preparation and demonstrated interest in the subject wi
 ---
 
 
-## Courses planned for Fall 2026
+## Courses taught in Fall 2026
 - Introduction to Quantum Computing, every Thursday 9:00-12:00, TA: Thanh Dat Nguyen
 - Quantum Information, every Wednesday 9:00-12:00
 
