@@ -30,7 +30,7 @@ Only students with prior preparation and demonstrated interest in the subject wi
 
 
 ## Courses being taught in Fall 2026
-- Introduction to Quantum Computing, every Thursday 9:00-12:00. Tutor: Yu-Hao Chen. TA: Thanh Dat Nguyen
+- Introduction to Quantum Computing, every Thursday 9:00-12:00. Tutor: Yu-Hao Chen (陳昱澔). TA: Thanh Dat Nguyen
 - Quantum Information, every Wednesday 9:00-12:00
 
 ## Courses taught in Spring 2026
