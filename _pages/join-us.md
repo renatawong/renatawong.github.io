@@ -93,6 +93,8 @@ For quantum computing projects, you are strongly encouraged to take Introduction
 
 From time to time, we offer internship opportunities through the IIPP and TEEP programs. The IIPP intake opens early each year and typically closes around July. The TEEP intake also opens early in the year, but since it is project-based, there is no strict application deadline. Approval is handled on a project-by-project basis by the PI. 
 
+Most of the internships offered at the lab are in quantum information and require a good understanding of the subject matter. Applicants without the relevant knowledge will not be considered. 
+
 <!--We currently offer 2 internship opportunities through NSTC's International Internship Pilot Program (IIPP). For details see here: [https://iipp.stpi.niar.org.tw/mentor/22162](https://iipp.stpi.niar.org.tw/mentor/22162). These opportunities are funded by the National Science and Technology Council. --> 
 
 <!--We currently offer 1 internship opportunity through the Taiwan Experience Education Program (TEEP), an international internship program administered by the Ministry of Education. See [https://teep.studyintaiwan.org/program/1740](https://teep.studyintaiwan.org/program/1740) for details.-->
