@@ -119,7 +119,7 @@ Thank you for your interest in our lab. At present, we do not offer paid remote 
 
 We do, however, welcome individuals interested in participating remotely as unpaid collaborators. Those interested in working with our lab are encouraged to propose a research project for potential collaboration.
 
-Please note that such arrangements are strictly collaborative in nature. We do not provide individual student supervision, project supervision, or mentorship for remote participants. The expected outcome of a collaboration is a SCI journal publication. 
+Please note that such arrangements are strictly collaborative in nature. We do not provide individual student supervision, project supervision, or mentorship for remote participants. The expected outcome of a collaboration is an SCI journal publication. 
 
 ---
 
