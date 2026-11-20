@@ -64,6 +64,8 @@ Foreign applicants are also strongly encouraged to apply for the TaiwanICDF Scho
 
 Please note that applicants may hold **only one scholarship at a time**.
 
+Please also check whether your country is included in the list of designated countries under Taiwan's immigration regulations (see the Notes at the bottom of this page). Applicants from designated countries are required to submit a Letter of Guarantee as part of their visa application. Please note that our research group is unable to provide such letters. Therefore, if you are from a designated country, we regret that we cannot consider your application. 
+
 ---
 
 ## Prospective master's students
@@ -77,6 +79,8 @@ Foreign applicants are also strongly encouraged to apply for the Taiwan Scholars
 Foreign applicants are also strongly encouraged to apply for the TaiwanICDF Scholarship: [https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2](https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2). This scholarship is available only to nationals of eligible countries. Please check the eligibility requirements on the TaiwanICDF website. The scholarship provides a monthly stipend of NTD 18,000, free dormitory accommodation, a waiver of tuition and fees, and reimbursement of travel expenses to Taiwan.
 
 Please note that applicants may hold **only one scholarship at a time**.
+
+Please also check whether your country is included in the list of designated countries under Taiwan's immigration regulations (see the Notes at the bottom of this page). Applicants from designated countries are required to submit a Letter of Guarantee as part of their visa application. Please note that our research group is unable to provide such letters. Therefore, if you are from a designated country, we regret that we cannot consider your application.
 
 ---
 
@@ -104,6 +108,8 @@ Most of the internships offered at the lab are in quantum information and requir
 Please note that both IIPP and TEEP internships are funded by their respective agencies (MOE or NSTC). The lab will not provide additional financial support. You will be responsible for covering your own flight and living expenses. The university offers affordable accommodation at a cost of TWD 520 per week per bed in a quad-room. 
 
 Both the IIPP and TEEP programs at our Lab are already closed for the year 2026. 
+
+Please also check whether your country is included in the list of designated countries under Taiwan's immigration regulations (see the Notes at the bottom of this page). Applicants from designated countries are required to submit a Letter of Guarantee as part of their visa application. Please note that our research group is unable to provide such letters. Therefore, if you are from a designated country, we regret that we cannot consider your application.
 
 ---
 
